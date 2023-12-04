@@ -1,0 +1,177 @@
+﻿Date Event Began,Time Event Began,Date of Restoration,Time of Restoration,Area Affected,NERC Region,Event Type,Demand Loss (MW),Number of Customers Affected
+1/7/2013,10:43 AM,1/7/2013,10:43 AM,"Denton, Maryland",RFC,Physcial Attack; Vandalism,0,0
+1/16/2013,2:25 PM,1/16/2013,2:25 PM,"Denton, Maryland",RFC,Physcial Attack; Vandalism,0,0
+1/16/2013,4:45 PM,1/16/2013,7:26 PM,"San Juan County, New Mexico",WECC,Suspected Physical Attack,0,0
+1/16/2013,7:41 AM,1/17/2013,10:58 AM,"Webster County, Iowa",MRO,Physical Attack,0,0
+1/17/2013,6:07 PM,1/20/2013,7:30 PM,"Southwest Virginia, Southern West Virginia",RFC,Severe Weather - Winter Storm,0,127000
+1/17/2013,7:02 PM,1/19/2013,6:00 PM,Northeast Tennessee,SERC,Severe Weather - Winter Storm,0,80000
+1/17/2013,8:35 PM,1/17/2013,9:20 PM,"Elizabeth City, North Carolina",SERC,Distribution Interruption,40,12000
+1/20/2013,3:30 AM,1/23/2013,6:15 AM,Southeastern Michigan,RFC,Severe Weather - Wind Storm,0,146500
+1/28/2013,4:46 PM,1/28/2013,6:00 PM,"Tacoma Narrows Crossing, Washington",WECC,Physical Attack,0,0
+1/31/2013,3:05 AM,1/31/2013,4:48 AM,Central and Eastern Virginia,SERC,Severe Weather - Wind Storm,188,119000
+1/31/2013,6:30 AM,1/31/2013,10:00 AM,Connecticut,NPCC,Severe Weather - Wind Storm,75,75000
+2/2/2013,9:15 PM,2/2/2013,10:15 PM,"El Paso, New Mexico",WECC,Vandalism,0,0
+2/7/2013,8:32 AM,2/7/2013,9:47 AM,"Cincinnati, Ohio",RFC,Vandalism,0,0
+2/8/2013,11:38 AM,2/8/2013,2:17 PM,District of Columbia; Prince George's County Maryland,RFC,Equipment Trip & Failure,140,52000
+2/8/2013,8:00 PM,2/11/2013,8:30 PM,Central and eastern Massachusetts; Rhode Island,NPCC,Severe Weather - Winter Storm Nemo,0,50000
+2/8/2013,8:55 PM,2/12/2013,4:00 AM,Boston area and Southeast Massachusetts,NPCC,Severe Weather - Winter Storm Nemo,0,50000
+2/9/2013,8:30 AM,2/9/2013,3:00 PM,"El Paso, New Mexico",WECC,Vandalism; Equipment Fault,0,0
+2/10/2013,7:46 PM,2/10/2013,8:15 PM,Puerto Rico,N/A,Generator Trip; Voltage Reduction,350,0
+2/13/2013,9:30 AM,2/13/2013,9:30 AM,"Fort Washington, Maryland",RFC,Vandalism,1,1
+2/13/2013,5:39 PM,2/15/2013,5:50 PM,Eastern Massachusetts,NPCC,Fuel Supply Emergency - Petroleum,1,1
+2/15/2013,12:00 AM,2/15/2013,12:01 AM,"Tuxedo, Maryland",RFC,Vandalism,0,0
+2/16/2013,7:54 AM,2/16/2013,7:54 AM,Prince George's County Maryland,RFC,Vandalism,1,1
+2/19/2013,4:01 PM,2/20/2013,12:55 PM,"Stockton, California",WECC,Electrical System Separation (Islanding),13850,6810
+2/21/2013,11:00 AM,2/21/2013,11:30 AM,"Las Cruces, New Mexico",WECC,Vandalism,0,0
+2/26/2013,1:00 PM,3/1/2013,10:00 AM,Northern Missouri,SERC,Severe Weather - Winter Storm Nemo,0,56444
+3/3/2013,6:39 AM,3/3/2013,10:29 AM,"Merced County, California",WECC,Transmission System Interruption,300,58850
+3/3/2013,4:27 PM,3/3/2013,6:20 PM,"Tacoma Park, Maryland",RFC,Vandalism,0,0
+3/4/2013,9:49 AM,3/4/2013,10:00 PM,Metropolitan area Puerto Rico,N/A,Equipment Failure; Transmission System Interruption,0,0
+3/6/2013,8:22 AM,3/7/2013,10:27 AM,Northwest Virginia,SERC,Severe Weather - Winter Storm,400,233000
+3/18/2013,5:21 AM,3/18/2013,5:41 AM,Systemwide Puerto Rico,N/A,Generator Trip; Load Shed,350,262937
+3/18/2013,5:50 PM,3/18/2013,6:07 PM,Northeast Florida,FRCC,Suspected Physical Attack,0,0
+3/18/2013,7:30 PM,3/20/2013,2:30 PM,North/Central Alabama; Georgia,SERC,Severe Weather - Thunderstorms,800,240000
+3/23/2013,7:00 AM,3/23/2013,9:00 AM,Connecticut,NPCC,Vandalism,0,0
+3/27/2013,10:25 AM,3/27/2013,12:19 PM,Western Massachusetts,NPCC,Physical Attack; Vandalism,0,0
+3/28/2013,1:01 PM,3/28/2013,1:02 PM,"Wilmington, Delaware",RFC,Vandalism,0,0
+3/29/2013,10:16 AM,3/29/2013,10:17 AM,Maryland,RFC,Suspected Physical Attack,0,0
+4/1/2013,8:40 AM,4/1/2013,8:41 AM,Connecticut,NPCC,Vandalism - Copper Wire Theft,0,0
+4/3/2013,11:05 AM,4/3/2013,2:00 PM,"Colorado Springs, Colorado",WECC,Sabotage; Vandalism,0,0
+4/9/2013,11:30 AM,4/9/2013,11:31 AM,"Delaware City, Delaware",RFC,Vandalism,0,0
+4/16/2013,1:47 AM,4/18/2013,3:25 PM,California,WECC,"Loss of Part of a High Voltage Substation, Physical Attack",0,0
+4/17/2013,3:36 PM,4/17/2013,4:53 PM,"Colbert Steam Plant in Cherokee, Alabama",SERC,Suspected Physical Attack,0,0
+4/18/2013,3:00 PM,4/21/2013,3:30 AM,"Southeast Michigan, Michigan",RFC,Severe Weather - Storms and Wind,0,99188
+4/21/2013,2:11 AM,4/21/2013,12:30 PM,East Tennessee,SERC,Suspected Physical Attack,0,0
+4/23/2013,11:00 AM,4/23/2013,11:01 AM,"Newark, Delaware",RFC,Vandalism,0,0
+4/23/2013,12:49 AM,4/23/2013,4:04 AM,"South of Humboldt, California",WECC,Electrical System Separation (Islanding),80,1
+4/25/2013,4:00 PM,4/26/2013,10:55 AM,"Sunol, California",WECC,Vandalism,0,0
+5/1/2013,9:22 AM,5/1/2013,9:24 AM,Northeast Colorado ,WECC,Electrical System Separation (Islanding),123,35230
+5/2/2013,6:52 AM,5/2/2013,10:07 AM,Unknown,WECC,Electrical System Separation (Islanding),0,0
+5/9/2013,1:21 PM,5/9/2013,4:21 PM,"Alberta, Canada; Washington State",WECC,Electrical System Separation (Islanding),0,0
+5/13/2013,12:52 PM,Ongoing,Ongoing,Central California,WECC,Fuel Supply Emergency - Hydro,176,0
+5/14/2013,12:01 AM,5/14/2013,1:59 PM,"Portland, Oregon",WECC,Vandalism/Theft,0,0
+5/14/2013,10:25 AM,5/14/2013,11:42 AM,New Hampshire,NPCC,Vandalism,0,0
+5/15/2013,2:11 PM,5/15/2013,2:12 PM,"Wilmington, Delaware",RFC,Vandalism,0,0
+5/17/2013,8:35 AM,5/17/2013,8:36 AM,"Newcastle, Delaware",RFC,Vandalism,0,0
+5/20/2013,3:00 PM,5/22/2013,5:00 PM,"Moore, Oklahoma",SPP,Severe Weather - Tornados,0,41306
+5/20/2013,5:22 PM,5/20/2013,9:09 PM,Gonzales Area Louisiana,SERC,Generator Trip; Load Shed 100+ MW,103,21800
+5/22/2013,10:51 AM,5/22/2013,10:57 AM,System wide Puerto Rico,N/A,System Wide Voltage Reduction,280,197287
+5/28/2013,1:00 PM,5/28/2013,6:00 PM,Maine,NPCC,Vandalism/Theft,0,0
+5/29/2013,12:00 AM,5/29/2013,12:02 AM,"Henrico County, Virginia",SERC,Physical Attack,0,0
+5/29/2013,8:58 PM,5/31/2013,2:53 PM,Central and Eastern New York,NPCC,Severe Weather - Thunderstorms,0,61795
+5/29/2013,9:52 AM,5/29/2013,9:53 AM,"Wilmington, Delaware",RFC,Vandalism/Theft,0,0
+5/30/2013,10:15 AM,5/30/2013,10:16 AM,"Saranac, New York",NPCC,Vandalism,0,0
+5/31/2013,1:00 AM,5/31/2013,1:30 AM,"Maumelle, Arkansas",SPP,Severe Weather - Lightning,0,0
+5/31/2013,6:00 PM,6/4/2013,10:30 AM,"El Reno, S. Oklahoma City, Oklahoma",SPP,Severe Weather - Tornados,0,127000
+5/31/2013,7:07 PM,6/1/2013,2:15 PM,"Southeast Kansas, Northeast Oklahoma",MRO,Transmission System Interruption,102,6300
+5/31/2013,7:30 PM,6/1/2013,8:00 PM,St. Louis Metro Area Missouri,SERC,Severe Weather - Thunderstorms,0,100000
+6/3/2013,12:50 PM,6/3/2013,1:36 PM,"Alberta, Canada",WECC,Electrical System Separation (Islanding),0,0
+6/13/2013,8:47 PM,6/14/2013,10:47 PM,Southern Company Territory,SERC,Severe Weather - Thunderstorms,550,165798
+6/13/2013,3:30 PM,6/13/2013,4:00 PM,District of Columbia; Maryland,RFC,Loss of 300+ MW Load; Severe Weather - Thunderstorms,700,40000
+6/13/2013,4:08 PM,6/14/2013,5:16 PM,"Richmond Metro area, Virginia",SERC,Severe Weather - Thunderstorms,900,283000
+6/13/2013,1:17 PM,6/14/2013,5:35 PM,Western Piedmont North Carolina,SERC,Severe Weather - Thunderstorms,1000,175000
+6/13/2013,5:45 PM,6/14/2013,6:30 PM,Central and Eastern North Carolina,SERC,Severe Weather - Thunderstorms,0,53000
+6/13/2013,3:20 PM,6/14/2013,9:10 PM,Ohio; Virginia; West Virginia,RFC; SERC,Severe Weather - Thunderstorms,0,90247
+6/17/2013,4:17 PM,6/17/2013,6:49 PM,Hillsborough County Florida,FRCC,Load Shed of 100+ MW Under Emergency Operational Policy,180,37
+6/18/2013,3:51 PM,6/18/2013,4:23 PM,Wyoming,WECC,Electrical System Separation (Islanding),6,0
+6/19/2013,7:57 PM,6/19/2013,8:09 PM,"Alberta, Canada",WECC,Electrical System Separation (Islanding),0,0
+6/20/2013,6:00 PM,6/21/2013,10:00 AM,"Richie Station (No. 123), Maryland",RFC,Physcial Attack; Vandalism,0,0
+6/21/2013,8:31 AM,10/30/2013,2:09 PM,"Michigan, Iowa",MRO,Suspected Cyber Attack,0,0
+6/21/2013,7:40 AM,6/21/2013,12:14 PM,Pahrump Nevada,WECC,Physical Attack; Vandalism & Sabotage,0,1100
+6/21/2013,3:00 AM,6/26/2013,12:00 PM,Minnesota,MRO,Severe Weather - Hailstorm,0,193000
+6/21/2013,11:14 PM,6/21/2013,11:15 PM,New Castle Delaware,RFC,Physical Attack; Vandalism  ,0,0
+6/21/2013,5:39 PM,6/24/2013,6:00 AM,Minneapolis/St. Paul area Minnesota,MRO,Severe Weather - Hailstorm,0,400000
+6/22/2013,4:12 PM,6/22/2013,5:45 PM,Eastern Montana,WECC,Suspected Physical Attack,0,0
+6/22/2013,4:59 AM,6/22/2013,9:28 PM,Medford Oregon,WECC,Physical Attack; Vandalism  ,0,0
+6/23/2013,9:20 PM,6/24/2013,1:35 AM,Central Coast California,WECC,Severe Weather - Fog,0,148000
+6/24/2013,7:30 PM,6/25/2013,5:46 PM,Illinois,RFC,Severe Weather - Thunderstorms,0,283451
+6/24/2013,7:30 PM,6/26/2013,5:00 PM,Indiana,RFC,Severe Weather - Thunderstorms,0,86615
+6/27/2013,5:00 PM,6/28/2013,12:00 AM,South Eastern Michigan,RFC,Severe Weather - Thunderstorms,0,138000
+6/27/2013,1:10 AM,6/27/2013,2:45 AM,"Richie Substation,Seat Pleasant, Maryland",RFC,Physical Attack; Vandalism  ,0,0
+6/28/2013,6:02 PM,6/28/2013,8:46 PM,"Los Angeles and Orange Counties, California",WECC,Equipment Failure,240,65255
+6/28/2013,1:00 PM,6/28/2013,1:01 PM,Vermont,NPCC,Physical Attack; Vandalism  ,0,0
+6/28/2013,5:14 PM,6/28/2013,5:15 PM,New Castle Delaware,RFC,Physical Attack; Vandalism  ,0,0
+7/2/2013,2:20 PM,7/5/2013,3:30 PM,"Alberta, Canada",WECC,Load Shed 100+MW,200,0
+7/3/2013,9:34 AM,7/3/2013,10:52 AM,Sacramento California,WECC,Suspected Physical Attack,0,0
+7/3/2013,12:04 PM,7/3/2013,12:48 PM,System-wide Puerto Rico,N/A,Voltage Reduction; Line and Generator Trip,480,393000
+7/5/2013,12:05 AM,7/5/2013,1:51 AM,California,WECC,Physical Attack; Vandalism,0,2500
+7/10/2013,2:30 PM,7/10/2013,2:45 PM,"Boston, Massachusetts",NPCC,Physical Attack; Copper Theft,0,0
+7/10/2013,5:30 PM,7/11/2013,8:00 PM,AEP Ohio Power Footprint,RFC,Severe Weather - Thunderstorms,0,122314
+7/11/2013,11:20 PM,7/14/2013,3:22 PM,Arizona,WECC,Physical Attack; Vandalism,455,0
+7/12/2013,10:00 AM,7/12/2013,10:01 AM,Washington,WECC,Physical Attack; Vandalism,0,0
+7/17/2013,3:30 PM,7/19/2013,6:45 AM,"Holtsville, New York",NPCC,Fuel Supply Emergency (Natural Gas),417,0
+7/18/2013,3:15 AM,7/18/2013,3:59 AM,Utah,WECC,Physical Attack; Vandalism   ,0,0
+7/18/2013,11:30 AM,7/19/2013,5:30 PM,Upstate New York,NPCC,Public Appeal - Heatwave,0,0
+7/18/2013,11:45 PM,7/19/2013,10:05 AM,Southern Orange County California,WECC,Equipment Failure,200,123000
+7/19/2013,6:00 PM,7/20/2013,9:00 AM,Michigan,RFC,Severe Weather - Thunderstorms,0,156627
+7/19/2013,10:30 PM,7/21/2013,8:00 PM,New York,NPCC,Severe Weather - Thunderstorms,0,74300
+7/22/2013,7:00 AM,7/22/2013,3:00 PM,California,WECC,Physical Attack; Vandalism,0,0
+7/23/2013,11:38 PM,7/25/2013,4:30 AM,"Tulsa, Oklahoma",SPP,Severe Weather - Thunderstorms,500,92748
+7/25/2013,1:10 PM,7/25/2013,1:15 PM,"Polk Substation, Tacoma Washington",WECC,Physical Attack; Vandalism,0,0
+8/1/2013,11:00 AM,8/1/2013,4:00 PM,"Newburgh, New York",NPCC,Physical Attack; Copper Theft,0,0
+8/1/2013,6:54 PM,8/1/2013,7:37 PM,Western British Columbia,WECC,Electrical System Separation (Islanding,420,0
+8/1/2013,11:19 PM,8/2/2013,12:49 AM,Daytona Beach Florida,FRCC,Loss of 300+ MW Load,297,104498
+8/4/2013,3:00 AM,8/4/2013,4:00 AM,Utah,WECC,Physical Attack; Vandalism,0,0
+8/5/2013,6:35 PM,8/5/2013,6:45 PM,"Vancouver, British Columbia",WECC,Electrical System Separation (Islanding); Severe Weather,0,0
+8/6/2013,4:00 PM,8/6/2013,5:32 PM,"Holloman Air Force Base, New Mexico",WECC,Physcial Attack; Vandalism,0,0
+8/7/2013,7:30 AM,8/7/2013,9:14 AM,"Green Bay, Wisconsin",MRO,Fuel Supply Emergency (Natural Gas & Fuel Oil),0,0
+8/7/2013,2:30 PM,8/8/2013,1:00 PM,"Arlington, Oregon",WECC,Physcial Attack; Vandalism,0,0
+8/7/2013,12:15 AM,8/7/2013,9:27 PM,Eastern Central Wisconsin,MRO,Severe Weather - Thunderstorms,220,51160
+8/12/2013,11:55 AM,8/12/2013,11:59 AM,"Portland, Oregon",WECC,Suspicious Activity,0,0
+8/16/2013,4:58 PM,8/17/2013,11:58 PM,Houston Service Area Texas,TRE,Severe Weather - Thunderstorms,0,219681
+8/19/2013,7:06 PM,8/20/2013,6:02 AM,Central California,WECC,Severe Weather - Lightning Strike,685,124000
+8/21/2013,2:00 PM,8/21/2013,2:01 PM,"Cabot, Arkansas",SERC,Physcial Attack; Sabotage,0,0
+8/22/2013,8:40 AM,8/22/2013,11:49 AM,"Gila River, Arizona",WECC,Physcial Attack; Sabotage,0,0
+8/22/2013,12:55 PM,8/22/2013,2:45 PM,"New Castle, Delaware",RFC,Physcial Attack; Vandalism,0,0
+8/23/2013,7:30 AM,8/23/2013,7:31 AM,"New Castle, Delaware",RFC,Physcial Attack; Vandalism,0,0
+8/26/2013,8:15 PM,8/26/2013,8:16 PM,Tacoma Washington,WECC,Physcial Attack; Vandalism,0,0
+8/28/2013,9:30 AM,8/28/2013,9:31 AM,Sweetwater County Wyoming,WECC,Physcial Attack; Vandalism,0,0
+8/29/2013,2:57 PM,8/29/2013,3:29 PM,"Ashland, Wisconsin",MRO,Electrical System Separation (Islanding); Severe Weather,15,7000
+8/29/2013,9:50 AM,8/29/2013,9:50 AM,"Joplin, Missouri",N/A,Physcial Attack; Vandalism,0,0
+8/30/2013,7:30 PM,8/31/2013,1:30 AM,Entire ComEd territory Illinois,RFC,Severe Weather - Thunderstorms,0,157000
+9/10/2013,5:42 PM,9/11/2013,12:02 AM,"Erie, Pennsylvania",RFC,Load Shed of 100+ MW,105,0
+9/11/2013,4:00 PM,9/15/2013,4:00 PM,Southeastern Michigan,RFC,Severe Weather - Thunderstorms,400,75000
+9/29/2013,12:00 AM,9/29/2013,1:00 AM,Cabot Arkansas,SERC,Physcial Attack; Sabotage,0,0
+10/6/2013,7:25 AM,10/6/2013,9:15 AM,"Jacksonville, Arkansas",SPP,Physical Attack,0,9200
+10/11/2013,2:30 PM,10/11/2013,6:30 PM,"Keo, Arkansas",SERC,Physical Attack,0,0
+10/16/2013,11:15 AM,10/16/2013,6:00 PM,"Roxboro Plant, North Carolina",SERC,Cyber Event with Potential to Cause Impact,0,0
+10/19/2013,2:32 PM,10/19/2013,10:00 PM,California,WECC,Physical Attack,0,0
+10/21/2013,5:18 AM,10/21/2013,5:33 AM,Location Unknown,WECC,Electrical System Separation (Islanding),115,433
+10/26/2013,7:13 AM,10/26/2013,7:14 AM,Arizona,WECC,Suspected Physical Attack,0,0
+10/27/2013,4:27 AM,10/27/2013,10:27 PM,"Houston, Texas",TRE,Severe Weather - Hail Storm,0,171117
+11/1/2013,1:26 PM,11/1/2013,1:27 PM,"Wilmington, Delaware",RFC,Physical Attack - Vandalism,0,0
+11/2/2013,8:25 AM,11/2/2013,8:26 AM,"Salt Lake City, Utah",WECC,Physical Attack - Vandalism,0,0
+11/2/2013,12:00 AM,11/4/2013,6:00 AM,"King, Whatcom, and Skagit, Washington",WECC,Severe Weather - Heavy Winds,0,105000
+11/4/2013,9:04 AM,11/4/2013,9:05 AM,Connecicut,NPCC,Physical Attack - Vandalism,0,0
+11/5/2013,10:10 AM,11/7/2013,10:10 AM,Indiana,RFC,Physical Attack,0,0
+11/12/2013,2:04 PM,11/12/2013,2:05 PM,"Valle, California",WECC,Electrical System Separation (Islanding),55,48400
+11/12/2013,9:14 AM,11/12/2013,10:30 AM,Eastern Central New Mexico,SPP,Loss of Power from Wholesale Provider; Major Distribution Disruption,0,0
+11/16/2013,3:15 PM,11/16/2013,3:16 PM,"Salt Lake County, Utah",WECC,Physical Attack - Vandalism,0,0
+11/17/2013,7:00 AM,11/20/2013,6:54 PM,Michigan,RFC,Severe Weather - Ice and Snow Storm,0,325325
+11/17/2013,12:35 PM,11/17/2013,1:40 PM,"Rochelle, Indiana",RFC,System-wide voltage reductions of 3 percent or more,38,7500
+11/17/2013,4:47 PM,11/20/2013,11:59 AM,Central Indiana,RFC,Severe Weather - Tornadoes,535,61705
+11/17/2013,4:45 PM,11/21/2013,4:45 PM,Entire Lower Peninsula Michigan,RFC,Severe Weather - Thunderstorms,0,50000
+11/17/2013,12:35 PM,11/20/2013,11:00 AM,"Central Missouri, Central Illinois",SERC,Severe Weather - Tornadoes,0,200000
+11/17/2013,1:06 PM,11/20/2013,1:06 PM,North Central Indiana,RFC,Severe Weather - Thunderstorms,0,75065
+11/17/2013,4:19 PM,11/18/2013,6:00 PM,"Indiana, Michigan",RFC,Severe Weather - Thunderstorms,0,77346
+11/17/2013,2:31 PM,11/17/2013,10:30 PM,Entire ComEd Territory Illinois,RFC,Severe Weather - Thunderstorms,0,190000
+11/17/2013,4:47 PM,11/20/2013,4:47 PM,Central Indiana,RFC,Severe Weather - Thunderstorms,0,61705
+11/20/2013,3:08 AM,11/20/2013,3:09 AM,Salt Lake County Utah,WECC,Physical Attack - Vandalism,0,0
+11/21/2013,7:45 PM,11/22/2013,3:20 AM,Northern California,WECC,Severe Weather - Wind Storm,150,89500
+11/24/2013,7:38 AM,11/24/2013,7:39 AM,Salt Lake County Utah,WECC,Physical Attack - Vandalism,0,0
+12/4/2013,5:00 AM,12/4/2013,4:17 PM,"Idaho Falls Area Idaho, Utah-Idaho Border Utah",WECC,Load Shed 100+ MW,150,0
+12/6/2013,8:47 AM,12/6/2013,8:49 AM,"Saratoga, Utah",WECC,"Physical Attack - Vandalism, Theft",0,0
+12/6/2013,1:51 AM,12/11/2013,12:00 PM,"Greater Houston, Texas",TRE,Severe Weather - Ice/Snow,0,881000
+12/9/2013,6:54 AM,12/9/2013,2:22 PM,Virginia Service Territory,SERC,Severe Weather - Ice/Snow,293,88000
+12/10/2013,1:01 AM,12/11/2013,1:01 AM,Arizona,WECC,Suspected Physical Attack,0,0
+12/13/2013,11:00 AM,12/27/2013,11:00 AM,Texas,TRE,Fuel Supply Emergencies (Coal),0,0
+12/13/2013,11:00 AM,12/27/2013,11:00 AM,Texas,TE,Fuel Supply Emergencies (Coal),0,0
+12/22/2013,6:16 AM,12/24/2013,11:59 PM,Frontier/Genesee/Northern New York,NPCC,Severe Weather - Ice/Snow,0,59000
+12/22/2013,6:30 AM,12/25/2013,5:12 AM,Michigan,RFC,Severe Weather - Ice/Snow,350,140735
+12/22/2013,3:28 AM,12/28/2013,11:45 PM,"Southern Lower Penninsula, Michigan",RFC,Severe Weather - Ice/Snow,0,50000
+12/23/2013,3:20 PM,12/25/2013,11:32 AM,Central Maine Maine,NPCC,Severe Weather - Ice/Snow,0,52500
+12/27/2013,9:43 AM,12/27/2013,12:43 PM,Gilabend Arizona,WECC,Physical Attack,0,0
+12/30/2013,11:00 AM,12/30/2013,11:01 AM,Salt Lake County Utah,WECC,Physical Attack,0,0
+12/30/2013,11:00 AM,1/1/2014,8:00 AM,North of Roosevelt lake Arizona,WECC,Physical Attack,0,0
+,,,,,,,,
+,,,,,,,,

@@ -1,0 +1,124 @@
+﻿Date Event Began,Time Event Began,Date of Restoration,Time of Restoration,Area Affected,NERC Region,Event Type,Demand Loss (MW),Number of Customers Affected
+1/6/2010,6:00 p.m.,1/8/2010,6:00 p.m.,Southwest Louisiana, SERC ,Made Public Appeals,0,0
+1/11/2010,3:45 a.m.,1/11/2010,9:57 a.m.,Northern and Central Florida,FRCC/SERC ,Interruptible Load Shed/Made Public Appeals,0,0
+1/18/2010,11:30 a.m.,1/28/2010,8:00 a.m.,Northern and Central California,WECC ,Severe Storm,290,1700000
+1/19/2010,7:30 a.m.,1/19/2010,12:24 p.m.,San Francisco,WECC ,Severe Storm,300,30000
+1/19/2010,2:30 p.m.,1/20/2010,3:00 p.m.,San Diego and Orange Counties, WECC ,Severe Storm,2650,50000
+1/20/2010,1:00 p.m.,1/24/2010,6:10 p.m.,"City of Los Angeles, California",WECC ,Severe Storm,0,147223
+1/28/2010,12:00 p.m.,2/2/2010,12:00 p.m.,Oklahoma, SPP ,Ice Storm,0,68705
+2/1/2010,2:32 p.m.,2/1/2010,5:00 p.m.,Oklahoma,SPP ,Ice Storm/Electrical System Separation,30,0
+2/5/2010,3:00 p.m.,2/13/2010,4:00 p.m.,Southern NJ,RFC ,Winter Storm,0,221000
+2/5/2010,6:48 p.m.,2/7/2010,5:00 p.m.,North and South Carolina,SERC ,Winter Storm,500,74000
+2/5/2010,7:00 p.m.,2/12/2010,3:46 p.m.,"District of Columbia, Prince Georges and Montgomery Co. MD",RFC ,Winter Storm,0,97651
+2/5/2010,10:30 p.m.,2/12/2010,12:00 p.m.,Southwestern Pennsylvania,RFC ,Winter Storm,0,57000
+2/5/2010,11:30 p.m.,2/7/2010,2:38 a.m.,"Indiana, Ohio, W. Virginia and Virginia", RFC ,Winter Storm,0,102225
+2/6/2010,2:30 a.m.,2/7/2010,7:00 a.m.,"Virginia, North Carolina",SERC ,Winter Storm,600,104736
+2/6/2010,8:00 a.m.,2/6/2010,9:00 a.m.,Delmarva Peninsula,RFC ,Winter Storm,0,58491
+2/9/2010,6:00 p.m.,2/14/2010,4:00 p.m.,Southeastern Pennsylvania, RFC ,Winter Storm,0,223000
+2/11/2010,12:00 p.m.,2/15/2010,9:00 p.m.,Dallas/Fort Worth and East Texas,TRE ,Winter Storm,0,500000
+2/12/2010,5:00 a.m.,2/12/2010,5:00 p.m.,"East Texas, Western Arkansas, Northern Lousiania", SPP ,Winter Storm,0,52999
+2/14/2010,10:00 a.m.,2/14/2010,12:00 p.m.,Western Pennsylvania nd Northeast Central WV,RFC ,Winter Storm,900,190000
+2/19/2010,8:30 p.m.,2/20/2010,4:01 a.m.,"San Joaquin Field Division/Bakersfield, CA",WECC ,Firm System Load Shed,1000,0
+2/23/2010,10:00 p.m.,2/25/2010,4:00 p.m.,Upstate New York,NPCC ,Winter Storm,0,150000
+2/25/2010,12:01 a.m.,2/26/2010,9:00 p.m.,"Southeastern New York, Northern New Jersey",NPCC ,Winter Storm,0,65000
+2/25/2010,5:00 p.m.,3/2/2010,7:00 p.m.,New York City, NPCC ,Winter Storm,0,55000
+2/25/2010,11:53 p.m.,3/1/2010,4:40 p.m.,Southern Maine and New Hampshire,NPCC ,Winter Storm,510,509606
+3/13/2010,1:00 a.m.,3/16/2010,6:40 p.m.,Southeasten Pennsylvania,RFC ,High Winds and rain,0,177528
+3/13/2010,12:00 p.m.,3/15/2010,8:05 p.m.,Connecticut,NPCC ,High Winds and Rain,50,50246
+3/13/2010,3:00 p.m.,3/17/2010,4:00 p.m.,Long Island,NPCC ,High Winds and Rain,0,153000
+3/13/2010,4:00 p.m.,3/16/2010,12:00 a.m.,Central New Jersey and Northern New Jersey,RFC ,High Winds and Flooding,0,180000
+3/13/2010,6:00 p.m.,3/20/2010,12:59 p.m.,"Southern, Central and Northern New Jersey",RFC ,High Winds and Rain,100,360000
+3/13/2010,6:00 p.m.,3/20/2010,9:00 a.m.,New York City and Westchester County,NPCC ,High Winds and Rain,0,173000
+3/31/2010,11:59 p.m.,4/1/2010,12:55 a.m.,San Diego and Orange Counties,WECC ,Shed Firm Load,324,290000
+3/31/2010,11:59 p.m.,4/1/2010,12:38 a.m.,San Diego,WECC ,Shed Firm Load,324,0
+4/16/2010,5:15 p.m.,4/18/2010,5:00 p.m.,Southwestern Pennsylvania,RFC ,Severe Thunderstorms,15,120000
+4/21/2010,3:05 p.m.,4/21/2010,8:00 p.m.,"Iberville, Parish, Louisiana",SERC ,Generator Tripped,0,0
+4/27/2010,2:55 p.m.,4/27/2010,2:55 p.m.,"Rocky Mount, NC",SERC ,Transmission System Interruption,0,29376
+5/2/2010,2:40 p.m.,5/9/2010,7:30 p.m.,Tennessee and Mississippi,SERC ,Thunderstorms,0,50500
+5/18/2010,8:15 a.m.,5/18/2010,10:46 p.m.,Central California,WECC,Breakers Tripped,318,0
+5/26/2010,11:45 a.m.,5/26/2010,3:00 p.m.,"Maryland, Pennsylvania, West Virginia, Virginia","RFC, SERC ",Made Public Appeal - System Drill,0,0
+6/1/2010,10:03 p.m.,6/18/2010,12:30 a.m.,Southwestern Indiana,RFC ,Firm Load Shed,500,1
+6/2/2010,8:18 p.m.,6/4/2010,8:00 a.m.,"San Antonio, TX",TRE ,Severe Weather,0,126000
+6/6/2010,4:45 a.m.,6/6/2010,5:35 a.m.,Northern California,WECC ,Electric System Separation,3,2650
+6/7/2010,6:29 p.m.,6/8/2010,1:00 a.m.,Denver Metropolitan Area,WECC ,Firm Load Shed,300,31000
+6/8/2010,11:00 a.m.,6/8/2010,5:00 p.m.,Southeastern Texas,TRE ,Thunderstorms,0,79741
+6/9/2010,2:18 p.m.,6/9/2010,3:00 p.m.,"Edenton, NC",SERC ,Transmission System Interruption,0,4196
+6/16/2010,11:11 a.m.,6/16/2010,11:32 a.m.,New York (Rockland and Orange Counties),NPCC ,Voltage Reduction (System Test),0,0
+6/17/2010,8:30 a.m.,6/17/2010,5:47 p.m.,"Morgan City, LA",SPP ,Made Public Appeal,0,0
+6/17/2010,9:30 a.m.,6/17/2010,5:17 p.m.,Southern Louisiana,SERC ,Made Public Appeal,0,0
+6/17/2010,9:30 a.m.,6/17/2010,4:40 p.m.,Southern Louisiana,SERC ,Made Public Appeal,0,0
+6/17/2010,9:30 a.m.,6/17/2010,4:40 p.m.,Southwestern Louisiana,SPP ,Made Public Appeal,0,0
+6/17/2010,10:49 a.m.,6/17/2010,11:02 a.m.,Eastern Montana,MRO ,Electrical System Separation,0,0
+6/18/2010,3:30 p.m.,6/20/2010,12:30 a.m.,Northwest Indiana,RFC ,Thunderstorms,0,94345
+6/18/2010,4:00 p.m.,6/20/2010,1:00 p.m.,"Chicago, IL",RFC ,Severe Weather,0,400000
+6/18/2010,7:00 p.m.,6/19/2010,5:00 a.m.,Southern Portion of Lower Michigan,RFC ,Thunderstorms,0,100000
+6/18/2010,8:00 p.m.,6/21/2010,10:45 a.m.,"Indiana, Michigan",RFC ,Severe Weather,0,79000
+6/18/2010,8:00 p.m.,6/22/2010,7:30 p.m.,"Detroit, MI",RFC ,Severe Weather,0,150000
+6/21/2010,1:48 p.m.,6/22/2010,8:31 p.m.,"Cincinnati, OH",RFC ,Thunderstorms,400,50636
+6/22/2010,3:34 p.m.,6/22/2010,7:00 p.m.,West/Central Arkansas,SERC ,Made Public Appeal/Transmission Equipment Failure,84,25159
+6/23/2010,5:00 p.m.,6/25/2010,1:40 p.m.,"Chicago, IL",RFC ,Severe Weather,0,300000
+6/23/2010,5:48 p.m.,6/24/2010,2:21 a.m.,Northwest Indiana,RFC ,Thunderstorms,0,53000
+6/24/2010,3:00 p.m.,6/29/2010,12:00 p.m.,Southwestern New Jersey,RFC ,Thunderstorms,0,150000
+6/24/2010,3:30 p.m.,6/29/2010,11:59 p.m.,Southeastern Pennsylvania,RFC ,Thunderstorms,0,355000
+6/25/2010,11:36 p.m.,6/26/2010,1:38 a.m.,Northern California,WECC ,Electrical System Separation,0,0
+7/6/2010,3:47 a.m.,7/6/2010,4:37 a.m.,"Newark, DE",RFC ,Transformer Outage,95,18400
+7/7/2010,4:13 p.m.,7/7/2010,10:29 p.m.,"York, South Central Pennsylvania",RFC ,Loss of Transmission Equipment,0,43903
+7/15/2010,7:00 p.m.,7/19/2010,11:30 p.m.,Southeastern Michigan,RFC ,Severe Weather,540,127534
+7/17/2010,8:30 p.m.,7/19/2010,10:00 p.m.,Minnesota,MRO ,"Strong Winds, Tornadoes",0,63000
+7/21/2010,6:44 p.m.,7/21/2010,8:00 p.m.,Connecticut,NPCC ,Thunderstorms,0,50100
+7/23/2010,10:00 a.m.,7/24/2010,11:55 p.m.,Northern Utah,WECC ,Made Public Appeals,45085,0
+7/23/2010,7:30 p.m.,7/26/2010,6:30 p.m.,Southeastern Michigan,RFC ,Severe Weather,400,82000
+7/25/2010,3:10 p.m.,7/30/2010,11:30 p.m.,"Washington, DC Region",RFC ,Severe Weather,0,297700
+7/25/2010,3:20 p.m.,7/27/2010,6:00 p.m.,Central Maryland,RFC ,Severe Weather,480,124000
+7/25/2010,4:11 p.m.,7/25/2010,8:06 p.m.,Northern Virginia,SERC ,Severe Weather,1000,81000
+7/29/2010,5:43 p.m.,7/29/2010,8:07 p.m.,Virginia,SERC ,Thunderstorms,0,55000
+7/29/2010,6:39 p.m.,7/29/2010,7:26 p.m.,Southern California,WECC ,"Shed Interruptible Load, Wildfire",522,0
+7/29/2010,6:39 p.m.,7/29/2010,7:26 p.m.,Southern California,WECC ,"Shed Interruptible Load, Wildfire",522,0
+8/2/2010,12:00 p.m.,8/2/2010,11:00 p.m.,Central California,WECC ,Fuel Supply Deficiency (Hydro),0,0
+8/2/2010,12:45 p.m.,8/4/2010,11:00 a.m.,Southern Louisiana,SERC ,Made Public Appeals,0,0
+8/2/2010,12:45 p.m.,8/4/2010,11:00 a.m.,Southern Louisiana,SERC ,Made Public Appeals,0,0
+8/2/2010,12:45 p.m.,8/4/2010,11:00 a.m.,Southwestern Louisiana,SERC ,Made Public Appeals,0,0
+8/2/2010,12:45 p.m.,8/4/2010,11:00 a.m.,Southern Louisiana,SPP ,Made Public Appeals,0,0
+8/4/2010,12:00 p.m.,8/4/2010,10:00 p.m.,"Northern Texas, Eastern New Mexico",SPP ,Made Public Appeals,0,0
+8/4/2010,4:45 p.m.,8/7/2010,12:00 a.m.,"Western Pennsylvania, Northwestern and Central West Virginia",RFC ,Thunderstorms,60,11186
+8/4/2010,5:00 p.m.,8/6/2010,4:00 a.m.,"Ohio, West Virginia, Kentucky",RFC ,Severe Weather,0,37000
+8/5/2010,3:30 p.m.,8/5/2010,10:00 p.m.,"District of Columbia, Maryland",RFC ,Thunderstorms,0,76729
+8/5/2010,3:54 p.m.,8/8/2010,12:00 a.m.,Northern Virginia,RFC ,Thunderstorms,0,145157
+8/9/2010,12:00 p.m.,8/16/2010,12:00 p.m.,Upstate New York,RFC ,Fuel Supply Defiency,0,0
+8/11/2010,3:21 p.m.,8/11/2010,12:12 p.m.,Ohio,RFC ,Severe Weather,0,57000
+8/12/2010,6:45 a.m.,8/12/2010,9:00 p.m.,"District of Columbia, Maryland",RFC ,Severe Weather,0,101003
+8/12/2010,8:21 a.m.,8/12/2010,11:00 a.m.,Central Nebraska,SPP ,Made Public Appeals,65,0
+8/12/2010,3:42 p.m.,8/12/2010,10:10 p.m.,"City of Oshkosh, Wisconsin",MRO ,Made Public Appeals,30,7600
+8/19/2010,6:00 p.m.,8/23/2010,3:30 p.m.,Southeastern Michigan,RFC ,Severe Weather,340,80000
+8/23/2010,5:50 p.m.,8/24/2010,9:30 a.m.,"Houston, Texas",TRE ,Severe Weather,746,81586
+9/1/2010,10:20 a.m.,9/1/2010,12:44 p.m.,"Pittsburg (Bay Area), California",WECC ,Electrical System Separation (Islanding),31,15000
+9/7/2010,2:02 p.m.,9/8/2010,1:27 a.m.,"San Antonio, Texas",TRE ,Tropical Storm,0,340350
+9/20/2010,5:00 p.m.,9/20/2010,5:30 p.m.,"King George County, Virginia",SERC ,Low Flying Helicopter,0,0
+9/21/2010,9:31 p.m.,9/22/2010,2:30 p.m.,Central and Southern Michigan,RFC ,Thunderstorms,0,138000
+9/22/2010,6:12 a.m.,9/22/2010,11:00 p.m.,"Bakersfield, California",WECC ,Firm Load Shed,526,0
+9/22/2010,4:08 p.m.,9/26/2010,12:00 a.m.,"City of Pittsburgh, Pennsylvania",RFC ,Thunderstorms,156,52000
+9/22/2010,5:38 p.m.,9/24/2010,11:30 p.m.,Western Pennsylvania,RFC ,Thunderstorms,389,82861
+9/27/2010,3:15 p.m.,9/27/2010,6:12 p.m.,Central and Southern California,WECC ,Interruptible Load Shed,595,0
+10/5/2010,5:45 a.m.,10/7/2010,6:00a.m.,"City of Los Angeles, California",WECC ,Rain and High Winds,0,73514
+10/26/2010,9:00 a.m.,10/28/2010,11:00 a.m.,Northern Illinois,RFC ,Thunderstorms,0,192106
+10/26/2010,8:00 p.m.,10/28/2010,10:00 p.m.,Minnesota,MRO ,High Winds,0,70000
+10/27/2010,4:00 a.m.,10/27/2010,12:00 p.m.,Northeast and North Central Wisconsin,MRO ,High Winds,0,63000
+10/27/2010,8:00 a.m.,10/29/2010,7:00 a.m.,Michigan's Northerly Lower Peninsula,RFC ,High Winds,240,285000
+10/27/2010,5:00 p.m.,10/29/2010,4:00 a.m.,Northern Illinois,RFC ,High Winds,0,127000
+10/27/2010,5:16 p.m.,10/27/2010,5:27 p.m.,Northern California,WECC ,Electrical System Separation-Islanding,16,2674
+10/31/2010,10:26 p.m.,11/1/2010,1:45 a.m.,"Bakersfield, California",WECC ,Firm System Load Loss,500,0
+11/4/2010,9:46 a.m.,11/4/2010,10:47 a.m.,"Rock Springs, Wyoming",WECC ,Transmission Equipment Failure/Interruptible Load Shed,0,0
+11/6/2010,3:53 p.m.,11/6/2010,6:08 p.m.,Northern California,WECC ,Electrical System Separation - Islanding,20,4
+11/8/2010,6:47 a.m.,11/8/2010,6:00 p.m.,Maine,NPCC ,Snow and High Winds,0,60863
+11/13/2010,3:00 p.m.,11/14/2010,10:00 p.m.,Minnesota,MRO ,Winter Storm,0,60000
+11/15/2010,11:00 p.m.,11/16/2010,2:14 a.m.,Puget Sound Region,WECC ,High Winds,391,149256
+11/21/2010,1:39 a.m.,11/24/2010,4:46 p.m.,Northern and Central California,WECC ,Winter Storm,75,60000
+11/22/2010,11:00 p.m.,11/24/2010,8:00 p.m.,"Puget Sound Region, Washington",WECC ,Winter Storm,420,123535
+11/23/2010,2:01 p.m.,11/23/2010,6:12 p.m.,Northern California,WECC ,Electrical System Separation - Islanding,22,7077
+12/3/2010,9:32 p.m.,12/4/2010,2:00 a.m.,California,WECC ,Electrical System Separation - Islanding,22,7077
+12/12/2010,4:30 p.m.,12/15/2010,2:00 p.m.,Southeastern Michigan,RFC ,Severe Weather,210,60175
+12/14/2010,7:20 a.m.,12/14/2010,7:25 a.m.,California,WECC ,Electrical System Separation - Islanding,9,6635
+12/14/2010,7:36 a.m.,12/15/2010,9:00 a.m.,Southern California,WECC ,Transmission Equipment/Firm System Load,464,0
+12/18/2010,5:00 a.m.,12/19/2010,10:00 p.m.,"Redmond, Washington",WECC ,Severe Weather,184,92090
+12/26/2010,8:15 a.m.,12/26/2010,4:15 p.m.,Carolina,SERC ,Severe Weather,0,42000
+12/30/2010,2:00 p.m.,1/12/2010,6:00 a.m.,New York,RFC ,Fuel Supply Deficiency,300,0
