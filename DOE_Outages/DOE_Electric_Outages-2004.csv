@@ -1,95 +1,94 @@
-﻿Date Event Began,Time Event Began,Date of Restoration,Time of Restoration,Area Affected,NERC Region,Event Type,Demand Loss (MW),Number of Customers Affected 1
-1/1/2004,7:30 a.m.,1/2/2004, 4:00 p.m.,Northern California,WECC,Winter Storm,170,263000
-1/7/2004,Midnight,1/10/2004, 5:00 p.m.,King County,WECC,Snow Storm,150,145000
-1/8/2004,3:00 p.m.,1/10/2004, 7:00 p.m.,"Lake Placid/Saranac, New York",NPCC,Public Appeal to Reduce Load,100,18600
-1/14/2004,6:00 a.m.,1/17/2004, 12:00 noon,"Lake Placid/Saranac, New York",NPCC,Public Appeal to Reduce Load,100,18600
-1/26/2004,10:00 a.m.,1/28/2004, 8:00 a.m.,Central South Carolina,SERC ,Ice Storm,700,150000
-1/26/2004,2:00 p.m.,1/27/2004, 8:00 p.m.,North and Central area of Georgia,SERC,Ice Storm,150,30689
-1/26/2004,4:00 p.m.,1/29/2004, 6:30 a.m.,Central and Eastern North Carolina and Northern and Eastern South Carolina,SERC,Ice Storm,475,9905
-1/28/2004,1:09 p.m. ,1/29/2004, 5:00 a.m.,"Harford County, Maryland", MAAC,Ice Storm,300,70000
-2/5/2004,8:00 p.m.,2/9/2004, 8:00 p.m.,"Maryland, Southeastern West Virginia, Northern Virginia, Northern Pennsylvania and South Central Pennsylvania",MAAC,Ice Storm,60,87456
-2/14/2004,8:00 p.m.,2/16/2004, 12 noon,"Lake Colby, Lake Placid, Tupper Lake",NPCC,Public Appeal to Reduce Load,30,18600
-2/17/2004,2:25 p.m.,2/17/2004, 11:57 p.m. ,"San Francisco Bay area, California",WECC,Lightning struck Intertie Breaker ,220,0
-2/25/2004,12:01 a.m.  ,2/26/2004, 10:00 a.m.,Northern California,WECC,Winter Storm,240,505000
-2/26/2004,12:00 a.m.,2/26/2004, 1:30 a.m.,Georgia,SERC,Severe Storm,10,47165
-3/4/2004,5:00 a.m.,3/16/2004, 2:45 p.m.,North Texas,ERCOT,High Winds - Severe Storm,300,63000
-3/7/2004,6:30 p.m.,3/9/2004, 8:00 a.m.  ,North and South Carolina,SERC,Severe Storm,1000,206000
-3/8/2004,6:22 p.m.,3/8/2004, 6:55 p.m.,Southern California not including LA,WECC,Inadequate Resources,300,70000
-3/17/2004,1:27 p.m. ,3/17/2004, 2:06 p.m.,"El Paso, Texas",WECC,Faulty Switch,300,100000
-4/10/2004,8:00 p.m.,4/11/2004, 4:00 p.m.   ,"Houston, Texas and surrounding suburban areas",ERCOT,Thunderstorms,100,85000
-4/12/2004,5:30 a.m. ,4/12/2004, 10:15 a.m.,FPL's service territory mostly in Naples and Ft. Myers Florida,FRCC,Storm with High Winds,250,179000
-4/27/2004,12:35 p.m.,4/30/2004, 12:00 p.m.,Snohomish County Washington,WECC,Strong Winds,300,187000
-5/3/2004,2:30 p.m.,5/3/2004, 7:00 p.m.,Central and Southern California,WECC,Heat Storm,662,940
-5/11/2004,3:30 p.m.,5/11/2004, 6:00 p.m.,"Houston, Texas and surrounding suburban areas",ERCOT,Strong Thunderstorms,85,62500
-5/21/2004,2:00 a.m.,5/24/2004, 12:00 a.m.,Akron and Youngstown areas,ECAR,Severe Thunderstorms,392,281000
-5/21/2004,2:00 a.m.,5/24/2004, 12:00 a.m.,Cleveland area,ECAR,Severe Thunderstorms,177,127000
-5/21/2004,5:30 a.m. ,5/25/2004, 12:00 a.m.,"Western Pennsylvania, Northern West Virginia, Western Maryland, Northern Virginia",MAAC,High Winds and Heavy Rains,162,225353
-5/21/2004,11:00 a.m.,5/26/2004, 9:00 p.m.,"Northern and Southern Michigan, AEP Fort Wayne/Michigan Region, Buchanan, Elkhart, New Buffalo, South Bend, St. Joseph, Three Rivers areas",ECAR,Severe Thunderstorms,303,122600
-5/21/2004,1:00 p.m.,5/25/2004, 12:00 p.m.,"Lower peninsula of Michigan following cities:  Grand Rapids, Kalamazoo, Battle Creek, Jackson, Bronson, Jonesville, Flint",ECAR,Severe Thunderstorms,200,248209
-5/21/2004,4:00  p.m.,5/24/2004, 8:00 p.m.,Southeast Michigan,ECAR,Severe Thunderstorms,630,250000
-5/28/2004,12:00 p.m.,5/31/2004, 12:00 a.m.,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",FRCC ,Public Appeals,0,0
-5/28/2004,12:00 p.m.,5/31/2004, 12:00 a.m.,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",FRCC,Public Appeals,0,0
-5/28/2004,12:00 p.m.,5/31/2004, 12:00 a.m.,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",FRCC,Public Appeals ,0,0
-6/1/2004,5:00 p.m.,6/2/2004, 1:00 a.m.,"Collin, Dallas, Denton, Ellis, Parker, and Tarrant Counties, Texas ",ERCOT,Severe Storms with Strong Winds,1900,500000
-6/2/2004,1:46 a.m.,6/7/2004, 4:00 p.m.,"Shreveport, Louisiana",ECAR,Severe  Thunderstorms with Strong Winds,350,59057
-6/2/2004,2:35 a.m.,6/6/2004, 6:00 p.m.,"Tulsa, Oklahoma",ECAR,Severe Thunderstorms with Strong Winds,280,56874
-6/12/2004,5:37 p.m.,6/12/2004, 5:41 p.m.,"Lincoln, Nebraska",MAPP,Tornado,428,120212
-6/14/2004,7:41 a.m.,6/14/2004, 2:39 p.m.,"Phoenix, Arizona",WECC ,Fault on Line,200,30000
-6/23/2004,5:35 p.m.,6/23/2004, 7:10 p.m.,Southern Idaho,WECC,Load Shedding,157,35000
-6/23/2004,7:00 p.m.,6/23/2004, 8:00 p.m.,Georgia and Alabama,SERC,Thunderstorms,50,50595
-7/6/2004,6:00 a.m.,8/9/2004, 12:00 p.m.,"Metro Phoenix, Arizona",WECC,Fire/Substation Multiple Public Appeals,0,0
-7/6/2004,6:00 a.m.  ,8/9/2004, 12:00 p.m.,"Metro Phoenix, Arizona",WECC ,Fire/Substation Multiple Public Appeals,0,0
-7/7/2004,1:30 p.m.,7/7/2004, 11:54 p.m.,Central Virginia,SERC,Severe Thunderstorms,120,88110
-7/13/2004,1:34 p.m.,7/13/2004, 5:15 p.m.,"Leon  County, Florida",FRCC,Units Tripped,283,42124
-7/13/2004,4:30 p.m.,7/17/2004, 8:00 a. m. ,"West, West Central and Southern Indiana",ECAR,Severe Thunderstorms,600,135000
-7/20/2004,2:26 p.m. ,7/21/2004, 2:00 a.m.,"Soledad Canyon near Acton, California",WECC,Wildfire/Shed Interruptible Load,214,0
-7/20/2004,3:44 p.m.,7/20/2004, 5:51 p.m.,"Regions of  San Juan, Caguas, Ponce, Bayamon, Carolina, Arecibo and Mayaguez",PR,Wildfire,200,61624
-7/21/2004,5:30 p.m.,7/22/2004, 7:00 p.m.,"Chicago, Illinois",MAIN,Severe Thunderstorms,200,200000
-7/24/2004,3:45 p.m.,7/25/2004, 9:00 p.m.,Southwest Louisiana in the Acadia Parish vicinity,SPP,Public Appeal  ,0,0
-7/25/2004,10:00 p.m.  ,7/25/2004, 11:00 p.m.,"Georgia, Alabama, Florida panhandle, Southern Mississippi",SERC,Severe Storms,61,61004
-8/2/2004,10:00 a.m.,8/2/2004, 8:00 p.m.,Southeast Texas,SPP,Unplanned Generator Outage/High Loads Made Public Appeal,0,0
-8/3/2004,9:00 p.m.,8/4/2004, 7:00 a.m.,Northern Illinois,MAIN,Severe Storm,127,127000
-8/4/2004,12:46 p.m.,8/4/2004, 1:50 p.m.,"Northwest Orange County, California",WECC,Fault at Barre Substation,480,182000
-8/9/2004,8:23 a.m.,8/9/2004, 11:10 a.m.,Whole Island of Puerto Rico,PR,Two Large Units Tripped,451.7,259478
-8/13/2004,8:00 a.m.,8/23/2004, 12:00 a.m,"Florida counties of Hardee, Highlands, Lake, Orange, Osceola, Polk, Seminole, Volusia",FRCC,Hurricane Charley,1300,502000
-8/13/2004,3:00 p.m.,8/13/2004, 11:00 p.m.,West Coast of Florida from Naples to Charlotte and in an area centered around Daytona Beach,FRCC,Hurricane Charley,1400,1200000
-8/13/2004,1:30 p.m.,8/13/2004, 12 a.m.,"Florida counties of Collier, Hendry, Glades, Highlands, Charlotte, Desoto, Lee, Hardee, and Polk",FRCC ,Hurricane Charley,700,200000
-8/13/2004,4:43 p.m.,8/13/2004, 8:24 p.m.,"Eastern Hillsborough, Polk County, Florida",FRCC,Hurricane Charley,250,78000
-8/13/2004,10:04 p.m.,8/14/2004, 4:23 p.m.,"New Smyrna Beach, Florida",FRCC,Hurricane Charley,65,23000
-8/14/2004,1:00 p.m. ,8/14/2004, 11:00 p.m.,Central and Eastern North Carolina and Northern and Eastern South Carolina,SERC,Hurricane Charley,500,94000
-8/20/2004,3:31 p.m.,8/20/2004, 9:45 p.m.,"Boston, Massachusetts",NPCC,Major Transmission Line Tripped due to Lightning Strike,22700,380000
-8/29/2004,9: 52 a.m.,8/29/2004, 6:00 p.m.,Southeastern South Carolina,SERC,Tropical Storm Gaston,450,125000
-8/30/2004,6:58 p.m.,8/31/2004, 3:35 p.m.,"Central Virginia, South to North Carolina and East to the Virginia Coast",SERC,Tropical Storm Gaston,150,99816
-9/3/2004,9:00 p.m.,9/5/2004, 2:00 p.m.,"City of Fort Pierce, Florida",FRCC,Hurricane Frances,125,26000
-9/4/2004,8:00 a.m.,9/6/2004, 8:00 a.m.,"West Palm Beach to Daytona Beach, Florida",FRCC,Hurricane Frances,6000,2775093
-9/4/2004,10:00 a.m.,9/12/2004, 7:00 p.m.,"Hillsborough, Pasco, and Polk County, Florida",FRCC,Hurricane Frances,1100,268000
-9/5/2004,1:00 a.m.,9/9/2004, 5:00 p.m.,"Orlando, Florida",FRCC,Hurricane Frances,200,65000
-9/5/2004,7:00 a.m.,9/12/2004, 12:00 a.m.,"Florida counties of Alachua, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",FRCC,Hurricane Frances,2100,832898
-9/6/2004,1:00 p.m.,9/9/2004, 12:00 p.m.,"Florida, Mississippi, Alabama, Georgia",SERC,Hurricane Frances,3000,99000
-9/7/2004,10:00 a.m.,9/8/2004, 12:00 p.m.,Georgia,SERC,Hurricane Frances,2200,150000
-9/15/2004,12:04 p.m.,09/23/04 12:00 p.m.,,Whole Island of Puerto Rico,PR,Hurricane Jeanne,1243,1423590
-9/15/2004,7:00 p.m.,9/17/2004, 7:00 p.m.,"Florida, Mississippi, Alabama, Georgia",SERC,Hurricane Ivan,916,916316
-9/16/2004,2:00 a.m.,9/16/2004, 10:02 a.m.,"Baldwin County, Alabama, Escambia County, Florida, Washington County, Alabama",SERC,Hurricane Ivan,263,75000
-9/16/2004,9:00 p.m.,9/20/2004, 4:00 p.m.,Western  North and South Carolina,SERC,Hurricane Ivan,500,175000
-9/17/2004,4:30 a.m.,9/18/2004, 12:00 p.m.,Western North Carolina,SERC,Hurricane Ivan,400,112000
-9/25/2004,5:00 p.m.,9/26/2004, 9:00 a.m.,"City of Fort Pierce, Florida",FRCC,Hurricane Jeanne,125,26000
-9/26/2004,2:00 a.m.,9/27/2004, 12:00 a.m.,"Hillsborough, Pasco, and Polk County, Florida",FRCC,Hurricane Jeanne,1250,285300
-9/26/2004,3:00 a.m.,9/30/2004, 9:00 a.m.,"Orlando and St. Cloud, Florida",FRCC,Hurricane Jeanne,350,110000
-9/26/2004,6:00 a.m.,10/1/2004, 12:00 a.m.,"Florida counties of Alachua, Bay, Brevard, Citrus, Columbia, Dixie, Flagler, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Hillsborough, Jefferson, Lafayette, Lake, Leon, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",FRCC,Hurricane Jeanne,1800,722000
-9/27/2004,8:00 a.m.,9/27/2004, 2:00 p.m.,Georgia,SERC,Hurricane Jeanne,854,85455
-9/27/2004,4:06 p.m.,9/27/2004, 4:12 p.m.,Nova Scotia,NPCC,Switch Error Concerning Breakers,0,0
-10/10/2004,5:09 p.m.,10/11/2004, 7:57 p.m.,Island Wide,PR,Breaker Failure,0,0
-10/18/2004, 10:30 p.m.,10/20/2004, 9:00 a.m.,Northern California,WECC,Severe Storm with High Wind Gusts,140,407440
-10/25/2004,11:00 a.m.,10/26/2004, 10:00 a.m.,Southeastern Louisiana in the New Orleans area,SPP,Public Appeal/Breaker Failure and Fire,0,0
-10/28/2004,3:27 p.m.,10/28/2004, 6:08 p.m.,"San  Jose, California",WECC,Major Transmission Distribution System Interruption,103,59458
-10/30/2004,10:00 a.m.,11/1/2004, 6:00 p.m.,"Lower peninsula of Michigan. following area:  Grand Rapids, Kalamazoo, Battle Creek, Greenville, Jackson,  Flint, Lansing, Allegan, Temperance",ECAR,Severe Storm with High Wind Gusts,60,122000
-10/30/2004,12:30  p.m.,11/3/2004, 1:50 p.m.,Southeastern Michigan,ECAR,High Wind Gusts,700,159870
-11/9/2004,2:15 p.m.,11/12/2004, 1:07p.m.,"Sayreville, New Jersey Long Island, New York",NPCC,Fuel Supply Deficiency - Williams Company: Event for Trans Continental Gas Pipeline,0,0
-11/14/2004,4:55 a.m.,11/15/2004, 1:31 a.m.,Nova Scotia ,NPCC,"Heavy Snow, High Winds and Rain/Major Distribution System Interruption",165,165000
-11/23/2004,10:00 p.m.  ,11/24/2004, 1:00 a.m.,"Houston, Texas and surrounding suburban areas",ERCOT,Strong Thunderstorms,150,119000
-11/24/2004,10:00 a.m.,11/24/2004, 4:00 p.m.,Georgia,SERC,Strong Thunderstorms,100,83450
-12/1/2004,10:00 a.m.,12/2/2004, 11:59 p.m.,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Hartford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)", MAAC,High Winds,270,122000
-12/1/2004,7:30 a.m.,12/2/2004, 10:09 p.m.,"Bucks, Chester, Delaware, Montgomery, and Philadelphia Counties, Pennsylvania",MAAC,Heavy Rain and Wind Storm,0,105312
-12/23/2004,3:37 a.m.,12/31/2004, 11:00 p.m.,Columbus District,ECAR,Major Freezing Rain and Ice Storm,800,359171
-12/27/2004,7:50 a.m.,12/27/2004, 10:50 a.m.,"Salinas, California and surrounding communities",WECC,Severe Weather/Line Relayed,100,95000
-,,,,,,,,
+﻿Date Event Began,Time Event Began,Date of Restoration,Time of Restoration,Area Affected,NERC Region,Alert Criteria,Event Type,Demand Loss (MW),Number of Customers Affected 1
+1/1/2004,7:30 a.m.,1/2/2004, 4:00 p.m.,Northern California,WECC,,Winter Storm,170,263000
+1/7/2004,Midnight,1/10/2004, 5:00 p.m.,King County,WECC,,Snow Storm,150,145000
+1/8/2004,3:00 p.m.,1/10/2004, 7:00 p.m.,"Lake Placid/Saranac, New York",NPCC,,Public Appeal to Reduce Load,100,18600
+1/14/2004,6:00 a.m.,1/17/2004, 12:00 noon,"Lake Placid/Saranac, New York",NPCC,,Public Appeal to Reduce Load,100,18600
+1/26/2004,10:00 a.m.,1/28/2004, 8:00 a.m.,Central South Carolina,SERC ,,Ice Storm,700,150000
+1/26/2004,2:00 p.m.,1/27/2004, 8:00 p.m.,North and Central area of Georgia,SERC,,Ice Storm,150,30689
+1/26/2004,4:00 p.m.,1/29/2004, 6:30 a.m.,Central and Eastern North Carolina and Northern and Eastern South Carolina,SERC,,Ice Storm,475,9905
+1/28/2004,1:09 p.m. ,1/29/2004, 5:00 a.m.,"Harford County, Maryland", MAAC,,Ice Storm,300,70000
+2/5/2004,8:00 p.m.,2/9/2004, 8:00 p.m.,"Maryland, Southeastern West Virginia, Northern Virginia, Northern Pennsylvania and South Central Pennsylvania",MAAC,,Ice Storm,60,87456
+2/14/2004,8:00 p.m.,2/16/2004, 12 noon,"Lake Colby, Lake Placid, Tupper Lake",NPCC,,Public Appeal to Reduce Load,30,18600
+2/17/2004,2:25 p.m.,2/17/2004, 11:57 p.m. ,"San Francisco Bay area, California",WECC,,Lightning struck Intertie Breaker ,220,0
+2/25/2004,12:01 a.m.  ,2/26/2004, 10:00 a.m.,Northern California,WECC,,Winter Storm,240,505000
+2/26/2004,12:00 a.m.,2/26/2004, 1:30 a.m.,Georgia,SERC,,Severe Storm,10,47165
+3/4/2004,5:00 a.m.,3/16/2004, 2:45 p.m.,North Texas,ERCOT,,High Winds - Severe Storm,300,63000
+3/7/2004,6:30 p.m.,3/9/2004, 8:00 a.m.  ,North and South Carolina,SERC,,Severe Storm,1000,206000
+3/8/2004,6:22 p.m.,3/8/2004, 6:55 p.m.,Southern California not including LA,WECC,,Inadequate Resources,300,70000
+3/17/2004,1:27 p.m. ,3/17/2004, 2:06 p.m.,"El Paso, Texas",WECC,,Faulty Switch,300,100000
+4/10/2004,8:00 p.m.,4/11/2004, 4:00 p.m.   ,"Houston, Texas and surrounding suburban areas",ERCOT,,Thunderstorms,100,85000
+4/12/2004,5:30 a.m. ,4/12/2004, 10:15 a.m.,FPL's service territory mostly in Naples and Ft. Myers Florida,FRCC,,Storm with High Winds,250,179000
+4/27/2004,12:35 p.m.,4/30/2004, 12:00 p.m.,Snohomish County Washington,WECC,,Strong Winds,300,187000
+5/3/2004,2:30 p.m.,5/3/2004, 7:00 p.m.,Central and Southern California,WECC,,Heat Storm,662,940
+5/11/2004,3:30 p.m.,5/11/2004, 6:00 p.m.,"Houston, Texas and surrounding suburban areas",ERCOT,,Strong Thunderstorms,85,62500
+5/21/2004,2:00 a.m.,5/24/2004, 12:00 a.m.,Akron and Youngstown areas,ECAR,,Severe Thunderstorms,392,281000
+5/21/2004,2:00 a.m.,5/24/2004, 12:00 a.m.,Cleveland area,ECAR,,Severe Thunderstorms,177,127000
+5/21/2004,5:30 a.m. ,5/25/2004, 12:00 a.m.,"Western Pennsylvania, Northern West Virginia, Western Maryland, Northern Virginia",MAAC,,High Winds and Heavy Rains,162,225353
+5/21/2004,11:00 a.m.,5/26/2004, 9:00 p.m.,"Northern and Southern Michigan, AEP Fort Wayne/Michigan Region, Buchanan, Elkhart, New Buffalo, South Bend, St. Joseph, Three Rivers areas",ECAR,,Severe Thunderstorms,303,122600
+5/21/2004,1:00 p.m.,5/25/2004, 12:00 p.m.,"Lower peninsula of Michigan following cities:  Grand Rapids, Kalamazoo, Battle Creek, Jackson, Bronson, Jonesville, Flint",ECAR,,Severe Thunderstorms,200,248209
+5/21/2004,4:00  p.m.,5/24/2004, 8:00 p.m.,Southeast Michigan,ECAR,,Severe Thunderstorms,630,250000
+5/28/2004,12:00 p.m.,5/31/2004, 12:00 a.m.,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",FRCC ,,Public Appeals,0,0
+5/28/2004,12:00 p.m.,5/31/2004, 12:00 a.m.,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",FRCC,,Public Appeals,0,0
+5/28/2004,12:00 p.m.,5/31/2004, 12:00 a.m.,"Florida counties of Gadsden, Wakulla, Leon, and Liberty",FRCC,,Public Appeals ,0,0
+6/1/2004,5:00 p.m.,6/2/2004, 1:00 a.m.,"Collin, Dallas, Denton, Ellis, Parker, and Tarrant Counties, Texas ",ERCOT,,Severe Storms with Strong Winds,1900,500000
+6/2/2004,1:46 a.m.,6/7/2004, 4:00 p.m.,"Shreveport, Louisiana",ECAR,,Severe  Thunderstorms with Strong Winds,350,59057
+6/2/2004,2:35 a.m.,6/6/2004, 6:00 p.m.,"Tulsa, Oklahoma",ECAR,,Severe Thunderstorms with Strong Winds,280,56874
+6/12/2004,5:37 p.m.,6/12/2004, 5:41 p.m.,"Lincoln, Nebraska",MAPP,,Tornado,428,120212
+6/14/2004,7:41 a.m.,6/14/2004, 2:39 p.m.,"Phoenix, Arizona",WECC ,,Fault on Line,200,30000
+6/23/2004,5:35 p.m.,6/23/2004, 7:10 p.m.,Southern Idaho,WECC,,Load Shedding,157,35000
+6/23/2004,7:00 p.m.,6/23/2004, 8:00 p.m.,Georgia and Alabama,SERC,,Thunderstorms,50,50595
+7/6/2004,6:00 a.m.,8/9/2004, 12:00 p.m.,"Metro Phoenix, Arizona",WECC,,Fire/Substation Multiple Public Appeals,0,0
+7/6/2004,6:00 a.m.  ,8/9/2004, 12:00 p.m.,"Metro Phoenix, Arizona",WECC ,,Fire/Substation Multiple Public Appeals,0,0
+7/7/2004,1:30 p.m.,7/7/2004, 11:54 p.m.,Central Virginia,SERC,,Severe Thunderstorms,120,88110
+7/13/2004,1:34 p.m.,7/13/2004, 5:15 p.m.,"Leon  County, Florida",FRCC,,Units Tripped,283,42124
+7/13/2004,4:30 p.m.,7/17/2004, 8:00 a. m. ,"West, West Central and Southern Indiana",ECAR,,Severe Thunderstorms,600,135000
+7/20/2004,2:26 p.m. ,7/21/2004, 2:00 a.m.,"Soledad Canyon near Acton, California",WECC,,Wildfire/Shed Interruptible Load,214,0
+7/20/2004,3:44 p.m.,7/20/2004, 5:51 p.m.,"Regions of  San Juan, Caguas, Ponce, Bayamon, Carolina, Arecibo and Mayaguez",PR,,Wildfire,200,61624
+7/21/2004,5:30 p.m.,7/22/2004, 7:00 p.m.,"Chicago, Illinois",MAIN,,Severe Thunderstorms,200,200000
+7/24/2004,3:45 p.m.,7/25/2004, 9:00 p.m.,Southwest Louisiana in the Acadia Parish vicinity,SPP,,Public Appeal  ,0,0
+7/25/2004,10:00 p.m.  ,7/25/2004, 11:00 p.m.,"Georgia, Alabama, Florida panhandle, Southern Mississippi",SERC,,Severe Storms,61,61004
+8/2/2004,10:00 a.m.,8/2/2004, 8:00 p.m.,Southeast Texas,SPP,,Unplanned Generator Outage/High Loads Made Public Appeal,0,0
+8/3/2004,9:00 p.m.,8/4/2004, 7:00 a.m.,Northern Illinois,MAIN,,Severe Storm,127,127000
+8/4/2004,12:46 p.m.,8/4/2004, 1:50 p.m.,"Northwest Orange County, California",WECC,,Fault at Barre Substation,480,182000
+8/9/2004,8:23 a.m.,8/9/2004, 11:10 a.m.,Whole Island of Puerto Rico,PR,,Two Large Units Tripped,451.7,259478
+8/13/2004,8:00 a.m.,8/23/2004, 12:00 a.m,"Florida counties of Hardee, Highlands, Lake, Orange, Osceola, Polk, Seminole, Volusia",FRCC,,Hurricane Charley,1300,502000
+8/13/2004,3:00 p.m.,8/13/2004, 11:00 p.m.,West Coast of Florida from Naples to Charlotte and in an area centered around Daytona Beach,FRCC,,Hurricane Charley,1400,1200000
+8/13/2004,1:30 p.m.,8/13/2004, 12 a.m.,"Florida counties of Collier, Hendry, Glades, Highlands, Charlotte, Desoto, Lee, Hardee, and Polk",FRCC ,,Hurricane Charley,700,200000
+8/13/2004,4:43 p.m.,8/13/2004, 8:24 p.m.,"Eastern Hillsborough, Polk County, Florida",FRCC,,Hurricane Charley,250,78000
+8/13/2004,10:04 p.m.,8/14/2004, 4:23 p.m.,"New Smyrna Beach, Florida",FRCC,,Hurricane Charley,65,23000
+8/14/2004,1:00 p.m. ,8/14/2004, 11:00 p.m.,Central and Eastern North Carolina and Northern and Eastern South Carolina,SERC,,Hurricane Charley,500,94000
+8/20/2004,3:31 p.m.,8/20/2004, 9:45 p.m.,"Boston, Massachusetts",NPCC,,Major Transmission Line Tripped due to Lightning Strike,22700,380000
+8/29/2004,9: 52 a.m.,8/29/2004, 6:00 p.m.,Southeastern South Carolina,SERC,,Tropical Storm Gaston,450,125000
+8/30/2004,6:58 p.m.,8/31/2004, 3:35 p.m.,"Central Virginia, South to North Carolina and East to the Virginia Coast",SERC,,Tropical Storm Gaston,150,99816
+9/3/2004,9:00 p.m.,9/5/2004, 2:00 p.m.,"City of Fort Pierce, Florida",FRCC,,Hurricane Frances,125,26000
+9/4/2004,8:00 a.m.,9/6/2004, 8:00 a.m.,"West Palm Beach to Daytona Beach, Florida",FRCC,,Hurricane Frances,6000,2775093
+9/4/2004,10:00 a.m.,9/12/2004, 7:00 p.m.,"Hillsborough, Pasco, and Polk County, Florida",FRCC,,Hurricane Frances,1100,268000
+9/5/2004,1:00 a.m.,9/9/2004, 5:00 p.m.,"Orlando, Florida",FRCC,,Hurricane Frances,200,65000
+9/5/2004,7:00 a.m.,9/12/2004, 12:00 a.m.,"Florida counties of Alachua, Citrus, Columbia, Dixie, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Jefferson, Lafayette, Lake, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",FRCC,,Hurricane Frances,2100,832898
+9/6/2004,1:00 p.m.,9/9/2004, 12:00 p.m.,"Florida, Mississippi, Alabama, Georgia",SERC,,Hurricane Frances,3000,99000
+9/7/2004,10:00 a.m.,9/8/2004, 12:00 p.m.,Georgia,SERC,,Hurricane Frances,2200,150000
+9/15/2004,12:04 p.m.,09/23/04 12:00 p.m.,,Whole Island of Puerto Rico,PR,,Hurricane Jeanne,1243,1423590
+9/15/2004,7:00 p.m.,9/17/2004, 7:00 p.m.,"Florida, Mississippi, Alabama, Georgia",SERC,,Hurricane Ivan,916,916316
+9/16/2004,2:00 a.m.,9/16/2004, 10:02 a.m.,"Baldwin County, Alabama, Escambia County, Florida, Washington County, Alabama",SERC,,Hurricane Ivan,263,75000
+9/16/2004,9:00 p.m.,9/20/2004, 4:00 p.m.,Western  North and South Carolina,SERC,,Hurricane Ivan,500,175000
+9/17/2004,4:30 a.m.,9/18/2004, 12:00 p.m.,Western North Carolina,SERC,,Hurricane Ivan,400,112000
+9/25/2004,5:00 p.m.,9/26/2004, 9:00 a.m.,"City of Fort Pierce, Florida",FRCC,,Hurricane Jeanne,125,26000
+9/26/2004,2:00 a.m.,9/27/2004, 12:00 a.m.,"Hillsborough, Pasco, and Polk County, Florida",FRCC,,Hurricane Jeanne,1250,285300
+9/26/2004,3:00 a.m.,9/30/2004, 9:00 a.m.,"Orlando and St. Cloud, Florida",FRCC,,Hurricane Jeanne,350,110000
+9/26/2004,6:00 a.m.,10/1/2004, 12:00 a.m.,"Florida counties of Alachua, Bay, Brevard, Citrus, Columbia, Dixie, Flagler, Franklin, Gilchrist, Gulf, Hamilton, Hardee, Hernando, Highlands, Hillsborough, Jefferson, Lafayette, Lake, Leon, Levy, Madison, Marion, Orange, Osceola, Pasco, Pinellas, Polk, Seminole, Sumter, Suwannee, Taylor, Volusia and Wakulla",FRCC,,Hurricane Jeanne,1800,722000
+9/27/2004,8:00 a.m.,9/27/2004, 2:00 p.m.,Georgia,SERC,,Hurricane Jeanne,854,85455
+9/27/2004,4:06 p.m.,9/27/2004, 4:12 p.m.,Nova Scotia,NPCC,,Switch Error Concerning Breakers,0,0
+10/10/2004,5:09 p.m.,10/11/2004, 7:57 p.m.,Island Wide,PR,,Breaker Failure,0,0
+10/18/2004, 10:30 p.m.,10/20/2004, 9:00 a.m.,Northern California,WECC,,Severe Storm with High Wind Gusts,140,407440
+10/25/2004,11:00 a.m.,10/26/2004, 10:00 a.m.,Southeastern Louisiana in the New Orleans area,SPP,,Public Appeal/Breaker Failure and Fire,0,0
+10/28/2004,3:27 p.m.,10/28/2004, 6:08 p.m.,"San  Jose, California",WECC,,Major Transmission Distribution System Interruption,103,59458
+10/30/2004,10:00 a.m.,11/1/2004, 6:00 p.m.,"Lower peninsula of Michigan. following area:  Grand Rapids, Kalamazoo, Battle Creek, Greenville, Jackson,  Flint, Lansing, Allegan, Temperance",ECAR,,Severe Storm with High Wind Gusts,60,122000
+10/30/2004,12:30  p.m.,11/3/2004, 1:50 p.m.,Southeastern Michigan,ECAR,,High Wind Gusts,700,159870
+11/9/2004,2:15 p.m.,11/12/2004, 1:07p.m.,"Sayreville, New Jersey Long Island, New York",NPCC,,Fuel Supply Deficiency - Williams Company: Event for Trans Continental Gas Pipeline,0,0
+11/14/2004,4:55 a.m.,11/15/2004, 1:31 a.m.,Nova Scotia ,NPCC,,"Heavy Snow, High Winds and Rain/Major Distribution System Interruption",165,165000
+11/23/2004,10:00 p.m.  ,11/24/2004, 1:00 a.m.,"Houston, Texas and surrounding suburban areas",ERCOT,,Strong Thunderstorms,150,119000
+11/24/2004,10:00 a.m.,11/24/2004, 4:00 p.m.,Georgia,SERC,,Strong Thunderstorms,100,83450
+12/1/2004,10:00 a.m.,12/2/2004, 11:59 p.m.,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Hartford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)", MAAC,,High Winds,270,122000
+12/1/2004,7:30 a.m.,12/2/2004, 10:09 p.m.,"Bucks, Chester, Delaware, Montgomery, and Philadelphia Counties, Pennsylvania",MAAC,,Heavy Rain and Wind Storm,0,105312
+12/23/2004,3:37 a.m.,12/31/2004, 11:00 p.m.,Columbus District,ECAR,,Major Freezing Rain and Ice Storm,800,359171
+12/27/2004,7:50 a.m.,12/27/2004, 10:50 a.m.,"Salinas, California and surrounding communities",WECC,,Severe Weather/Line Relayed,100,95000

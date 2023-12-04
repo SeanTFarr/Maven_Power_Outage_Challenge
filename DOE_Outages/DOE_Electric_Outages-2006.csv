@@ -1,92 +1,92 @@
-﻿Date Event Began,Time Event Began,Date of Restoration,Time of Restoration,Area Affected,NERC Region,Event Type,Demand Loss (MW),Number of Customers Affected
-1/14/2006,3:45 p.m.,1/16/2006,5:30 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",RFC,High Winds,0,142315
-1/18/2006,3:16 p.m.,1/18/2006,6:34 p.m.,Southern and Central Maine,NPCC,Severe Storm,75,63000
-2/4/2006,1:34 a.m.,2/6/2006,12:01 a.m.,"Snohomish County, Washington",WECC,Strong Winds,150,123827
-2/4/2006,4:30 a.m.,2/8/2006,8:00  a.m.,Western Washington,WECC,Severe Windstorm,0,140000
-2/11/2006,9:00 p.m.,2/14/2006,11:00 p.m.,Baltimore Metropolitan and Central Maryland,RFC,Major Snow Storm,500,180000
-2/12/2006,12:06 a.m.,2/14/2006,5:44 p.m.,"Washington DC, Montgomery and Prince Georges Counties MD",RFC,Major Snow Storm,300,60000
-2/12/2006,2:00 a.m.,2/14/2006,4:00 p.m.,Entire Atlantic City Electric territory Southern New Jersey,RFC,Winter Snow/Ice Storm,80,130000
-2/12/2006,2:00 a.m.,2/13/2006,7:00 a.m.,Entire Delmarva Power service territory,RFC,Winter Snow/Ice Storm,50,58000
-2/12/2006,5:55 a.m.,2/12/2006,2:00 p.m.,Northern and Northwestern Virginia,RFC,Severe Snow Storm,250,126000
-2/16/2006,12:00 p.m.,2/10/2006,11:00 p.m.,"Muskegon, Michigan easterly to Bay City, Michigan",RFC,Severe Thunderstorm/ Snow/Ice Storm,100,252089
-2/16/2006,Ongoing,2/1g/2006,,North Dakota,MRO,Fuel Supply - Deficiency Coal Rail Transportation Interruption,1650,0
-2/17/2006,4:32 a.m.,2/17/2006,12:00 p.m.,Upstate New York,NPCC,Severe Weather,250,200000
-2/18/2006,8:50 a.m.,2/18/2006,4:09 p.m.,Colorado,WECC,Inadequate Electric Resources to Serve Load,428,0
-2/27/2006,6:25 p.m.,2/27/2006,2:30 p.m.,Northern and Central California,WECC,Severe Winter Storm,0,160000
-3/9/2006,2:00 p.m.,3/9/2006,10:00 p.m.,"Arkansas, Mississippi, Louisiana, Southeast Texas",SERC,Severe Weather,0,73000
-3/12/2006,8:30 p.m.,3/12/2006,12:00 p.m.,"Springfield, Illinois and vicinity",RFC,Severe Weather,200,65400
-4/2/2006,9:00 p.m.,4/2/2006,4:25 a.m.,Southern half of Indiana,RFC,Major Storms/Tornadoes,1000,186000
-4/7/2006,8:43 a.m.,4/7/2006,9:29 a.m.,Island of Puerto Rico,PR,Voltage Reduction/Load Shed,116,54700
-4/8/2006,4:00 a.m.,4/8/2006,11:00 a.m.,North and Central Alabama and Northern Georgia areas,SERC,Severe Weather/ Tornadoes,300,115589
-4/17/2006,3:25 p.m.,4/17/2006,7:30 p.m.,ERCOT Region of Texas,ERCOT,Load Shed/Declared EECP,1000,200000
-4/17/2006,4:10 p.m.,4/17/2006,6:11 p.m.,System-wide greater Houston metro area (and across ERCOT),ERCOT,Load Shed/Made Public Appeals/Rolling Blackouts,260,68000
-4/17/2006,4:11 p.m.,4/17/2006,7:20 p.m.,North and East Texas,ERCOT,Load Shed/ Declared EECP,380,489478
-4/17/2006,4:20 p.m.,4/17/2006,6:30 p.m.,State of Texas (all of Austin Energy),ERCOT,Load Shed/Made Public Appeals/Rolling Blackouts,40,10000
-4/17/2006,4:35 p.m.,4/17/2006,6:10 p.m.,AEP Texas Central/Texas North,ERCOT,Load Shed/Declared EECP,108,51404
-4/21/2006,7:00 a.m.,4/21/2006,10:00 a.m.,System-wide greater Houston metro area,ERCOT,Severe Weather,219,82000
-4/29/2006,2:55 p.m.,4/29/2006,3:45 p.m.,Island of Puerto Rico,PR,Lightning Storm,237,164105
-5/3/2006,3:30 p.m.,5/3/2006,9:35 p.m.,City of Bakersfield area,WECC,Transmission Equipment Failure/Fire,300,55655
-5/4/2006,2:12 p.m.,5/4/2006,2:45 p.m.,Island of Puerto Rico,PR,Load Shed,140,94639
-5/19/2006,3:13 p.m.,5/19/2006,10:30 p.m.,"San Francisco Bay area, California",WECC,Lightning Strike,133,0
-5/25/2006,7:50 p.m.,5/27/2006,9:00 a.m.,"Southwest Ohio, Northern Kentucky, Central Indiana",RFC,Severe Weather,800,210000
-6/1/2006,2:12 p.m.,6/1/2006,6:09 p.m.,Island of Oahu,HECO,Load Shed,120,29300
-6/1/2006,6:00 p.m.,6/3/2006,9:00 a.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",RFC,Severe Weather,0,111555
-6/1/2006,6:30 p.m.,6/3/2006,2:00 p.m.,Central Maryland,RFC,Severe Thunderstorms,335,70000
-6/11/2006,6:00 p.m.,6/11/2006,9:00 p.m.,"Charlotte, North Carolina Metropolitan area",SERC,Severe Thunderstorm,70,72000
-6/22/2006,2:00 p.m.,6/27/2006,11:00 p.m.,Ohio and Indiana,RFC,Severe Thunderstorms,750,195000
-7/2/2006,6:39 p.m.,7/3/2006,12:31 a.m.,Northern Virginia,RFC,Severe Thunderstorms,300,75000
-7/4/2006,5:30 p.m.,7/4/2006,8:18 p.m.,Northern Virginia,SERC,Severe Thunderstorms,335,67000
-7/16/2006,2:00 p.m.,7/11/2006,12:00 a.m.,Middle 1/3 of Michigan Lower Peninsula,RFC,Severe Lightning Storms,150,315000
-7/17/2006,6:50 p.m.,7/15/2006,3:06 a.m.,"Northwest Queens, New York City",NPCC,Severe Weather/Public Appeals Made/Voltage Reduction,0,25000
-7/17/2006,9:00 p.m.,7/17/2006,9:00 a.m.,Northern Counties of Illinois,RFC,Severe Lightning Storms,0,170519
-7/18/2006,6:36 p.m.,7/13/2006,11:59 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",RFC,Severe Lightning Storms,0,492955
-7/18/2006,8:07 p.m.,7/18/2006,10:32 p.m.,"Norwalk, Stamford, Connecticut",NPCC,Lightning Storms/Tripped Lines,0,0
-7/19/2006,11:00 a.m.,7/19/2006,5:54 p.m.,"Greater Little Rock, Arkansas",SERC,Load Reduction/Public Appeals Made,40,8000
-7/19/2006,6:00 p.m.,7/11/2006,8:00 a.m.,Greater St. Louis Metropolitan area (Missouri and Illinois),MRO,Severe Storms (3) (Many customers experienced multiple outages.),1500,2500000
-7/22/2006,1:09 p.m.,7/27/2006,4:00 p.m.,California,WECC,Widespread Heat Wave/Public Appeals Made,200,1271893
-7/24/2006,2:33 p.m.,7/24/2006,5:33 p.m.,California,WECC,Widespread Heat Wave/CAISO Implementation of Stage 2 Electrical Emergency Plan,414,6
-7/24/2006,2:33 p.m.,7/24/2006,5:33 p.m.,California,WECC,Widespread Heat Wave/CAISO  Implementation of Stage 2 Electrical Emergency Plan,695,0
-7/27/2006,6:38 p.m.,7/29/2006,9:36 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",RFC,Severe Thunderstorms,0,167564
-8/1/2006,12:00 p.m.,8/1/2006,7:00 p.m.,Northern Ohio,RFC,Made Public Appeals/Heat Wave,0,0
-8/1/2006,1:00 p.m.,8/1/2006,8:30 p.m.,"Ohio, Indiana, Kentucky",RFC,Made Public Appeals,90,0
-8/2/2006,12:00 p.m.,8/2/2006,4:45 p.m.,"Midwest ISO's Market Sub-regions:  AMRN, CIN, CILC, CWLD, CWLP, FE, HE, IP, IPL, LGEE, MECS, NIPS, SIGE, SIPC",MRO,Declared Energy Emergency Alert 2/Heat Wave,0,0
-8/2/2006,1:00 p.m.,8/2/2006,4:35 p.m.,New England,NPCC,System Wide Voltage Reduction,0,0
-8/2/2006,7:00 p.m.,8/3/2006,1:00 a.m.,New England,NPCC,Severe Thunderstorms,140,77000
-8/3/2006,2:16 p.m.,8/3/2006,2:46 p.m.,Island of Puerto Rico,PR,Shed Firm Load,369,227480
-8/7/2006,1:00 p.m.,8/7/2006,6:00 p.m.,"Tulsa, Oklahoma",RFC,Made Public Appeals,75,0
-8/10/2006,8:00 p.m.,8/12/2006,12:00 p.m.,Southwest Idaho and Eastern Oregon,WECC,Severe Thunderstorm,100,65000
-8/24/2006,9:58 p.m.,8/24/2006,11:25 p.m.,Island of Puerto Rico,PR,Shed Firm Load/Reduced Voltage,180,106000
-9/1/2006,5:30 a.m.,9/1/2006,10:00 a.m.,Eastern North Carolina,SERC,Tropical Storm Ernesto,0,61000
-9/1/2006,6:41 a.m.,9/1/2006,3:25 p.m.,Virginia and North Carolina,SERC,Tropical Storm Ernesto,500,333000
-9/1/2006,10:00 a.m.,9/4/2006,2:00 p.m.,Southern Delmarva Peninsula,RFC,Tropical Storm Ernesto,380,105000
-9/1/2006,3:00 p.m.,9/4/2006,11:00 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",RFC,Tropical Storm Ernesto,0,146094
-9/1/2006,8:00 p.m.,9/1/2006,5:00 p.m.,Southern New Jersey Counties,RFC,Tropical Storm Ernesto,400,100000
-9/14/2006,8:56 a.m.,9/14/2006,9:08 a.m.,Island of Puerto Rico,PR,Shed Firm Load/ Reduced Voltage,59,34716
-9/28/2006,8:08 p.m.,9/28/2006,10:10 p.m.,"North, Central and Eastern Virginia and Northern North Carolina",SERC,Severe Thunderstorms,84,56500
-10/2/2006,2:00 p.m.,10/2/2006,6:00 p.m.,"Chicago Metro, Northeast Illinois",RFC,Severe Thunderstorms,0,471932
-10/2/2006,3:05 p.m.,10/2/2006,8:39 p.m.,"Newhall, San Frenando, Saugus, and Santa Clarita, California",WECC,Shed Firm Load,308,130000
-10/3/2006,5:28 p.m.,10/3/2006,9:59 p.m.,"Grimes, Robertson, Fort Bend, Brazos, Burleson and Walker Counties",ERCOT,Shed Firm Load,339,0
-10/12/2006,5:48 p.m.,10/12/2006,12:00 a.m.,Western New York State,NPCC,Snow Storm,600,250000
-10/12/2006,8:00 p.m.,10/12/2006,11:00 p.m.,Western New York State,NPCC,Snow Storm,353,120000
-10/15/2006,7:09 a.m.,10/15/2006,4:12 p.m.,Island of Maui,MECO,Earthquakes,110,59886
-10/15/2006,7:09 a.m.,10/16/2006,2:55 p.m.,Island of Oahu,HECO,Earthquakes,1170,291000
-10/20/2006,1:00 p.m.,10/22/2006,5:00 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",RFC,High Winds,0,90000
-10/26/2006,5:30 a.m.,10/27/2006,5:10 p.m.,"Metro Denver and Boulder, Colorado",MR0,Wet Snow/Winds,0,65000
-11/15/2006,10:00 a.m.,11/15/2006,8:00 p.m.,System-wide greater Houston area,ERCOT,High Winds,221,83000
-11/15/2006,1:00 p.m.,11/19/2006,2:35 a.m.,"Whatcom and Skagit Counties, Washington",WECC,High Winds,50,50000
-11/15/2006,3:00 p.m.,11/15/2006,5:00 p.m.,Georgia,SERC,Severe Weather,363,109000
-11/26/2006,1:00 p.m.,11/22/2006,6:00 p.m.,"Snohomish County, Washington",WECC,Wind/Snow Storm,180,63992
-11/30/2006,9:00 p.m.,11/39/2006,6:00 p.m.,Missouri and Illinois,MRO,Ice Storm,0,550000
-12/1/2006,6:20 p.m.,12/2/2006,6:00 a.m.,Ohio,RFC,Wind Storm,0,59106
-12/10/2006,7:35 p.m.,12/10/2006,10:14 p.m.,"San Francisco Bay area, California",WECC,Unit Tripped,220,0
-12/13/2006,4:30 a.m.,12/18/2006,11:59 p.m.,Western Washington,WECC,Wind Storm,0,700000
-12/14/2006,12:01 a.m.,12/14/2006,8:00 a.m.,"City of Seattle, Washington",WECC,Wind Storm,750,175000
-12/14/2006,5:30 a.m.,12/10/2006,10:00 p.m.,"Snohomish County, Washington",WECC,Wind Storm,360,172060
-12/14/2006,9:44 a.m.,12/14/2006,2:34 p.m.,"Oregon, Washington, Idaho, Montana",WECC,Wind Storm,258,24
-12/14/2006,12:07 p.m.,12/17/2006,12:00 p.m.,State of Oregon Coastal area,WECC,HIgh Winds,0,111000
-12/14/2006,5:00 p.m.,12/16/2006,4:00 p.m.,"Greater Tacoma area (City of Fircrest, University Place, City of Lakeland) and portions of South Pierce County in State of Washington",WECC,High Winds,280,75000
-12/14/2006,7:00 p.m.,12/17/2006,8:00 p.m.,"Oregon Counties: Multnomah, Clackamas, Washington, Marion",WECC,High Winds,0,249500
-12/16/2006,7:30 p.m.,12/16/2006,1:00 a.m.,"Oregon Counties:  Washington, Yamhill",WECC,Transmission Equipment/Fire,350,84500
-12/26/2006,12:01 a.m.,12/21/2006,9:13 a.m.,Northern California,WECC,Severe Weather,420,850068
-12/29/2006,4:25 p.m.,12/21/2006,6:59 p.m.,North Part of the Island,PR,Main Power Transformer Failure/Voltage Reduction/Fire,50,18386
-12/30/2006,10:25 p.m.,12/36/2006,2:25 p.m.,"Gosper, Harlan, Franklin, Webster, Clay, Adams, Kearney, Phelps, Dawson, Buffalo, Hall, Hamilton, Sherman, Custer, Valley, Greeley, Howard, Merrick, York, Fillmore, Nance, Boone, Wheeler, Madison, Antelope, Pierce, Platte and Seward Counties in Central Nebraska",MRO,Severe Weather,500,15000
+﻿Date Event Began,Time Event Began,Date of Restoration,Time of Restoration,Area Affected,NERC Region,Alert Criteria,Event Type,Demand Loss (MW),Number of Customers Affected
+1/14/2006,3:45 p.m.,1/16/2006,5:30 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",RFC,,High Winds,0,142315
+1/18/2006,3:16 p.m.,1/18/2006,6:34 p.m.,Southern and Central Maine,NPCC,,Severe Storm,75,63000
+2/4/2006,1:34 a.m.,2/6/2006,12:01 a.m.,"Snohomish County, Washington",WECC,,Strong Winds,150,123827
+2/4/2006,4:30 a.m.,2/8/2006,8:00  a.m.,Western Washington,WECC,,Severe Windstorm,0,140000
+2/11/2006,9:00 p.m.,2/14/2006,11:00 p.m.,Baltimore Metropolitan and Central Maryland,RFC,,Major Snow Storm,500,180000
+2/12/2006,12:06 a.m.,2/14/2006,5:44 p.m.,"Washington DC, Montgomery and Prince Georges Counties MD",RFC,,Major Snow Storm,300,60000
+2/12/2006,2:00 a.m.,2/14/2006,4:00 p.m.,Entire Atlantic City Electric territory Southern New Jersey,RFC,,Winter Snow/Ice Storm,80,130000
+2/12/2006,2:00 a.m.,2/13/2006,7:00 a.m.,Entire Delmarva Power service territory,RFC,,Winter Snow/Ice Storm,50,58000
+2/12/2006,5:55 a.m.,2/12/2006,2:00 p.m.,Northern and Northwestern Virginia,RFC,,Severe Snow Storm,250,126000
+2/16/2006,12:00 p.m.,2/10/2006,11:00 p.m.,"Muskegon, Michigan easterly to Bay City, Michigan",RFC,,Severe Thunderstorm/ Snow/Ice Storm,100,252089
+2/16/2006,Ongoing,2/1g/2006,,North Dakota,MRO,,Fuel Supply - Deficiency Coal Rail Transportation Interruption,1650,0
+2/17/2006,4:32 a.m.,2/17/2006,12:00 p.m.,Upstate New York,NPCC,,Severe Weather,250,200000
+2/18/2006,8:50 a.m.,2/18/2006,4:09 p.m.,Colorado,WECC,,Inadequate Electric Resources to Serve Load,428,0
+2/27/2006,6:25 p.m.,2/27/2006,2:30 p.m.,Northern and Central California,WECC,,Severe Winter Storm,0,160000
+3/9/2006,2:00 p.m.,3/9/2006,10:00 p.m.,"Arkansas, Mississippi, Louisiana, Southeast Texas",SERC,,Severe Weather,0,73000
+3/12/2006,8:30 p.m.,3/12/2006,12:00 p.m.,"Springfield, Illinois and vicinity",RFC,,Severe Weather,200,65400
+4/2/2006,9:00 p.m.,4/2/2006,4:25 a.m.,Southern half of Indiana,RFC,,Major Storms/Tornadoes,1000,186000
+4/7/2006,8:43 a.m.,4/7/2006,9:29 a.m.,Island of Puerto Rico,PR,,Voltage Reduction/Load Shed,116,54700
+4/8/2006,4:00 a.m.,4/8/2006,11:00 a.m.,North and Central Alabama and Northern Georgia areas,SERC,,Severe Weather/ Tornadoes,300,115589
+4/17/2006,3:25 p.m.,4/17/2006,7:30 p.m.,ERCOT Region of Texas,ERCOT,,Load Shed/Declared EECP,1000,200000
+4/17/2006,4:10 p.m.,4/17/2006,6:11 p.m.,System-wide greater Houston metro area (and across ERCOT),ERCOT,,Load Shed/Made Public Appeals/Rolling Blackouts,260,68000
+4/17/2006,4:11 p.m.,4/17/2006,7:20 p.m.,North and East Texas,ERCOT,,Load Shed/ Declared EECP,380,489478
+4/17/2006,4:20 p.m.,4/17/2006,6:30 p.m.,State of Texas (all of Austin Energy),ERCOT,,Load Shed/Made Public Appeals/Rolling Blackouts,40,10000
+4/17/2006,4:35 p.m.,4/17/2006,6:10 p.m.,AEP Texas Central/Texas North,ERCOT,,Load Shed/Declared EECP,108,51404
+4/21/2006,7:00 a.m.,4/21/2006,10:00 a.m.,System-wide greater Houston metro area,ERCOT,,Severe Weather,219,82000
+4/29/2006,2:55 p.m.,4/29/2006,3:45 p.m.,Island of Puerto Rico,PR,,Lightning Storm,237,164105
+5/3/2006,3:30 p.m.,5/3/2006,9:35 p.m.,City of Bakersfield area,WECC,,Transmission Equipment Failure/Fire,300,55655
+5/4/2006,2:12 p.m.,5/4/2006,2:45 p.m.,Island of Puerto Rico,PR,,Load Shed,140,94639
+5/19/2006,3:13 p.m.,5/19/2006,10:30 p.m.,"San Francisco Bay area, California",WECC,,Lightning Strike,133,0
+5/25/2006,7:50 p.m.,5/27/2006,9:00 a.m.,"Southwest Ohio, Northern Kentucky, Central Indiana",RFC,,Severe Weather,800,210000
+6/1/2006,2:12 p.m.,6/1/2006,6:09 p.m.,Island of Oahu,HECO,,Load Shed,120,29300
+6/1/2006,6:00 p.m.,6/3/2006,9:00 a.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",RFC,,Severe Weather,0,111555
+6/1/2006,6:30 p.m.,6/3/2006,2:00 p.m.,Central Maryland,RFC,,Severe Thunderstorms,335,70000
+6/11/2006,6:00 p.m.,6/11/2006,9:00 p.m.,"Charlotte, North Carolina Metropolitan area",SERC,,Severe Thunderstorm,70,72000
+6/22/2006,2:00 p.m.,6/27/2006,11:00 p.m.,Ohio and Indiana,RFC,,Severe Thunderstorms,750,195000
+7/2/2006,6:39 p.m.,7/3/2006,12:31 a.m.,Northern Virginia,RFC,,Severe Thunderstorms,300,75000
+7/4/2006,5:30 p.m.,7/4/2006,8:18 p.m.,Northern Virginia,SERC,,Severe Thunderstorms,335,67000
+7/16/2006,2:00 p.m.,7/11/2006,12:00 a.m.,Middle 1/3 of Michigan Lower Peninsula,RFC,,Severe Lightning Storms,150,315000
+7/17/2006,6:50 p.m.,7/15/2006,3:06 a.m.,"Northwest Queens, New York City",NPCC,,Severe Weather/Public Appeals Made/Voltage Reduction,0,25000
+7/17/2006,9:00 p.m.,7/17/2006,9:00 a.m.,Northern Counties of Illinois,RFC,,Severe Lightning Storms,0,170519
+7/18/2006,6:36 p.m.,7/13/2006,11:59 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",RFC,,Severe Lightning Storms,0,492955
+7/18/2006,8:07 p.m.,7/18/2006,10:32 p.m.,"Norwalk, Stamford, Connecticut",NPCC,,Lightning Storms/Tripped Lines,0,0
+7/19/2006,11:00 a.m.,7/19/2006,5:54 p.m.,"Greater Little Rock, Arkansas",SERC,,Load Reduction/Public Appeals Made,40,8000
+7/19/2006,6:00 p.m.,7/11/2006,8:00 a.m.,Greater St. Louis Metropolitan area (Missouri and Illinois),MRO,,Severe Storms (3) (Many customers experienced multiple outages.),1500,2500000
+7/22/2006,1:09 p.m.,7/27/2006,4:00 p.m.,California,WECC,,Widespread Heat Wave/Public Appeals Made,200,1271893
+7/24/2006,2:33 p.m.,7/24/2006,5:33 p.m.,California,WECC,,Widespread Heat Wave/CAISO Implementation of Stage 2 Electrical Emergency Plan,414,6
+7/24/2006,2:33 p.m.,7/24/2006,5:33 p.m.,California,WECC,,Widespread Heat Wave/CAISO  Implementation of Stage 2 Electrical Emergency Plan,695,0
+7/27/2006,6:38 p.m.,7/29/2006,9:36 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",RFC,,Severe Thunderstorms,0,167564
+8/1/2006,12:00 p.m.,8/1/2006,7:00 p.m.,Northern Ohio,RFC,,Made Public Appeals/Heat Wave,0,0
+8/1/2006,1:00 p.m.,8/1/2006,8:30 p.m.,"Ohio, Indiana, Kentucky",RFC,,Made Public Appeals,90,0
+8/2/2006,12:00 p.m.,8/2/2006,4:45 p.m.,"Midwest ISO's Market Sub-regions:  AMRN, CIN, CILC, CWLD, CWLP, FE, HE, IP, IPL, LGEE, MECS, NIPS, SIGE, SIPC",MRO,,Declared Energy Emergency Alert 2/Heat Wave,0,0
+8/2/2006,1:00 p.m.,8/2/2006,4:35 p.m.,New England,NPCC,,System Wide Voltage Reduction,0,0
+8/2/2006,7:00 p.m.,8/3/2006,1:00 a.m.,New England,NPCC,,Severe Thunderstorms,140,77000
+8/3/2006,2:16 p.m.,8/3/2006,2:46 p.m.,Island of Puerto Rico,PR,,Shed Firm Load,369,227480
+8/7/2006,1:00 p.m.,8/7/2006,6:00 p.m.,"Tulsa, Oklahoma",RFC,,Made Public Appeals,75,0
+8/10/2006,8:00 p.m.,8/12/2006,12:00 p.m.,Southwest Idaho and Eastern Oregon,WECC,,Severe Thunderstorm,100,65000
+8/24/2006,9:58 p.m.,8/24/2006,11:25 p.m.,Island of Puerto Rico,PR,,Shed Firm Load/Reduced Voltage,180,106000
+9/1/2006,5:30 a.m.,9/1/2006,10:00 a.m.,Eastern North Carolina,SERC,,Tropical Storm Ernesto,0,61000
+9/1/2006,6:41 a.m.,9/1/2006,3:25 p.m.,Virginia and North Carolina,SERC,,Tropical Storm Ernesto,500,333000
+9/1/2006,10:00 a.m.,9/4/2006,2:00 p.m.,Southern Delmarva Peninsula,RFC,,Tropical Storm Ernesto,380,105000
+9/1/2006,3:00 p.m.,9/4/2006,11:00 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",RFC,,Tropical Storm Ernesto,0,146094
+9/1/2006,8:00 p.m.,9/1/2006,5:00 p.m.,Southern New Jersey Counties,RFC,,Tropical Storm Ernesto,400,100000
+9/14/2006,8:56 a.m.,9/14/2006,9:08 a.m.,Island of Puerto Rico,PR,,Shed Firm Load/ Reduced Voltage,59,34716
+9/28/2006,8:08 p.m.,9/28/2006,10:10 p.m.,"North, Central and Eastern Virginia and Northern North Carolina",SERC,,Severe Thunderstorms,84,56500
+10/2/2006,2:00 p.m.,10/2/2006,6:00 p.m.,"Chicago Metro, Northeast Illinois",RFC,,Severe Thunderstorms,0,471932
+10/2/2006,3:05 p.m.,10/2/2006,8:39 p.m.,"Newhall, San Frenando, Saugus, and Santa Clarita, California",WECC,,Shed Firm Load,308,130000
+10/3/2006,5:28 p.m.,10/3/2006,9:59 p.m.,"Grimes, Robertson, Fort Bend, Brazos, Burleson and Walker Counties",ERCOT,,Shed Firm Load,339,0
+10/12/2006,5:48 p.m.,10/12/2006,12:00 a.m.,Western New York State,NPCC,,Snow Storm,600,250000
+10/12/2006,8:00 p.m.,10/12/2006,11:00 p.m.,Western New York State,NPCC,,Snow Storm,353,120000
+10/15/2006,7:09 a.m.,10/15/2006,4:12 p.m.,Island of Maui,MECO,,Earthquakes,110,59886
+10/15/2006,7:09 a.m.,10/16/2006,2:55 p.m.,Island of Oahu,HECO,,Earthquakes,1170,291000
+10/20/2006,1:00 p.m.,10/22/2006,5:00 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsylvania",RFC,,High Winds,0,90000
+10/26/2006,5:30 a.m.,10/27/2006,5:10 p.m.,"Metro Denver and Boulder, Colorado",MR0,,Wet Snow/Winds,0,65000
+11/15/2006,10:00 a.m.,11/15/2006,8:00 p.m.,System-wide greater Houston area,ERCOT,,High Winds,221,83000
+11/15/2006,1:00 p.m.,11/19/2006,2:35 a.m.,"Whatcom and Skagit Counties, Washington",WECC,,High Winds,50,50000
+11/15/2006,3:00 p.m.,11/15/2006,5:00 p.m.,Georgia,SERC,,Severe Weather,363,109000
+11/26/2006,1:00 p.m.,11/22/2006,6:00 p.m.,"Snohomish County, Washington",WECC,,Wind/Snow Storm,180,63992
+11/30/2006,9:00 p.m.,11/39/2006,6:00 p.m.,Missouri and Illinois,MRO,,Ice Storm,0,550000
+12/1/2006,6:20 p.m.,12/2/2006,6:00 a.m.,Ohio,RFC,,Wind Storm,0,59106
+12/10/2006,7:35 p.m.,12/10/2006,10:14 p.m.,"San Francisco Bay area, California",WECC,,Unit Tripped,220,0
+12/13/2006,4:30 a.m.,12/18/2006,11:59 p.m.,Western Washington,WECC,,Wind Storm,0,700000
+12/14/2006,12:01 a.m.,12/14/2006,8:00 a.m.,"City of Seattle, Washington",WECC,,Wind Storm,750,175000
+12/14/2006,5:30 a.m.,12/10/2006,10:00 p.m.,"Snohomish County, Washington",WECC,,Wind Storm,360,172060
+12/14/2006,9:44 a.m.,12/14/2006,2:34 p.m.,"Oregon, Washington, Idaho, Montana",WECC,,Wind Storm,258,24
+12/14/2006,12:07 p.m.,12/17/2006,12:00 p.m.,State of Oregon Coastal area,WECC,,HIgh Winds,0,111000
+12/14/2006,5:00 p.m.,12/16/2006,4:00 p.m.,"Greater Tacoma area (City of Fircrest, University Place, City of Lakeland) and portions of South Pierce County in State of Washington",WECC,,High Winds,280,75000
+12/14/2006,7:00 p.m.,12/17/2006,8:00 p.m.,"Oregon Counties: Multnomah, Clackamas, Washington, Marion",WECC,,High Winds,0,249500
+12/16/2006,7:30 p.m.,12/16/2006,1:00 a.m.,"Oregon Counties:  Washington, Yamhill",WECC,,Transmission Equipment/Fire,350,84500
+12/26/2006,12:01 a.m.,12/21/2006,9:13 a.m.,Northern California,WECC,,Severe Weather,420,850068
+12/29/2006,4:25 p.m.,12/21/2006,6:59 p.m.,North Part of the Island,PR,,Main Power Transformer Failure/Voltage Reduction/Fire,50,18386
+12/30/2006,10:25 p.m.,12/36/2006,2:25 p.m.,"Gosper, Harlan, Franklin, Webster, Clay, Adams, Kearney, Phelps, Dawson, Buffalo, Hall, Hamilton, Sherman, Custer, Valley, Greeley, Howard, Merrick, York, Fillmore, Nance, Boone, Wheeler, Madison, Antelope, Pierce, Platte and Seward Counties in Central Nebraska",MRO,,Severe Weather,500,15000
