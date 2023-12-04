@@ -1,62 +1,62 @@
 ﻿Date Event Began,Time Event Began,Date of Restoration,Time of Restoration,Area Affected,NERC Region,Alert Criteria,Event Type ,Demand Loss (MW),Number of Customers Affected 
-1/25/2003,2:00 p.m.,1/26/2003, 2:00 a.m.,"Cincinnati, Ohio",ECAR,,Cyber Threat From Internet ,0,0
-2/27/2003,11:32 a.m.,3/1/2003, 8:00 a.m.,"Piedmont, North Carolina",SERC,,Winter Ice Storm,1000,340000
-4/3/2003,7:00 p.m.,4/6/2003, 5:00 p.m. ,Lower Michigan Peninsula ,ECAR,,Ice Storm,300,425000
-4/4/2003,3:11 a.m.,4/5/2003, 2:00 p.m. ,"New York, Upstate New York",NPCC,,Severe Storm ,250,160000
-4/15/2003,11:00 a.m.,4/15/2003, 2:06 p.m. ,"Cities of Bryan, College Station and surrounding areas",ERCOT,,Relaying Malfunction,212,68530
-4/28/2003,3:41 p.m.,4/29/2003, 12:00 p.m. ,"County of Waukesha,  Wisconsin, Town of Lisbon, Wisconsin",MAIN,,Vandalism,0,0
-5/2/2003,5:00 p.m.,5/4/2003, 12:00 p.m. ,"Piedmont, North and South Carolina",SERC,,Severe Thunderstorms,1500,139000
-5/2/2003,8:00 p.m.,5/3/2003, 8:00 a.m.,"Central Georgia, Alabama",SERC,,Severe Thunderstorms,130,115739
-5/15/2003,2:52 a.m.,5/15/2003, 3:29 a.m.,North Texas,ERCOT,,Interruption of Firm Power,476,192000
-5/15/2003,2:00 p.m.,6/16/2003, 2:00 p.m.,Upper Michigan Peninsula,MAIN,,Flood,240,2
-6/15/2003,3:12 p.m.,6/16/2003, 5:00 p.m.,Idaho,WECC,,Public Appeal ,0,0
-6/30/2003,1:00 p.m.,6/30/2003, 12:00 a.m. ,Coastal areas of Southwest Louisiana entire New Orleans metropolitan area,SPP,,Tropical Storm Bill,0,179299
-7/1/2003,3:15 p.m.,7/1/2003, 3:50 p.m.  ,"Phoenix, Arizona",WECC,,Breaker Failure,1000,47000
-7/2/2003,1:54 p.m.,7/2/2003, 3:59 p.m. ,Northern California,WECC,,Unit Tripped,200,1
-7/4/2003,6:00 a.m.,7/4/2003, 10:00 a.m. ,Southeast Wisconsin,MAIN,,Severe Thunderstorms,150,52000
-7/4/2003,9:00 a.m.,7/6/2003, 4:00 p.m. ,Lower Michigan Peninsula,ECAR,,Severe Thunderstorms,90,131000
-7/4/2003,11:41 p.m.,7/6/2003, 9:00 p.m.,"Southwest Ohio, portions of Indiana",ECAR,,Severe Storms,200,55142
-7/5/2003,3:00 a.m.,7/5/2003, 7:00 a.m. ,Northern Illinois,MAIN,,Severe Storms,80,130000
-7/7/2003,9:00 a.m.,7/7/2003, 3:00 p.m. ,Northern Illinois,MAIN,,Severe Thunderstorms,0,72000
-7/8/2003,4:00 a.m.,7/11/2003, 4:00 p.m.,Ohio,ECAR,,Severe Thunderstorms,11000,134500
-7/9/2003,5:14 p.m.,7/9/2003, 7:09 p.m. ,Northern Central and Eastern Virginia,SERC,,Severe Thunderstorms,120,80000
-7/15/2003,8:24 a.m.,7/21/2003, 10:30 a.m.,Texas,ERCOT,,Hurricane Claudette,300,108000
-7/21/2003,5:15 p.m.,7/24/2003, 5:33 a.m.,Pennsylvania,MAAC,,Severe Storms,1000,185000
-7/28/2003,6:55 p.m.,7/28/2003, 8:35 p.m.,Arizona,WECC,,Breaker Closed,440,90000
-8/14/2003,Approximately 3:00 p.m.,8/16/2003, 5:00 p.m.,Geographic areas for MISO Reliability Coordination footprint:  Michigan and Ohio,ECAR,,Unknown *,18500,0
-8/14/2003,4:09 p.m.,8/16/2003, 7:00 a.m.,Southeastern Michigan including all of Detroit,ECAR,,Unknown *,11000,2100000
-8/14/2003,4:09 p.m.,8/16/2003, 1:03 p.m.,"Southern Lower  Michigan and small areas near Flint, Alma, Saginaw, and Lansing Michigan",ECAR,,Unknown *,1007,101000
-8/14/2003,4:10 p.m.,8/16/2003, 8:27 p.m.,"Northeast, Ohio",ECAR,,Unknown *,7000,1203000
-8/14/2003,4:10 p.m.,8/16/2003, 3:45 a.m.,Southwestern Connecticut and a small portion of Western Massachusetts and Vermont,NPCC,,Unknown *,2500,0
-8/14/2003,4:10 p.m.,8/18/2003, 12:03 a.m.,New York State,NPCC,,Unknown *,22934,0
-8/14/2003,4:10 p.m.,8/14/2003, 11:48 p.m.,"New York- Buffalo to Albany; Ontario, Canada to Pennsylvania",NPCC,,Unknown *,0,840137
-8/14/2003,4:10 p.m.,8/14/2003, 6:00 a.m.,"Northern New Jersey Erie, Pennsylvania  area",MAAC,,Unknown *,4500,0
-8/14/2003,4:11 p.m.,8/15/2003, 9:03 p.m.,Entire Con Edison System (five boroughs of NYC and Westchester County),NPCC,,Unknown *,11202,3125350
-8/26/2003,4:00 p.m.,8/29/2003, 12:00 p.m.,"Maryland: Anne Arundel County, Baltimore County, Calvert County, Carroll County, Howard County, Montgomery County,  Prince George's and Baltimore City.",MAAC,,Severe Thunderstorms,625,133000
-8/26/2003,4:22 p.m.,8/31/2003, 6:00 p.m.,"Washington, D.C.,  Montgomery County,  Prince Georges County, Maryland",MAAC,,Severe Thunderstorms,1500,153000
-9/7/2003,5:19 a.m.,9/7/2003, 6:00 p.m.,Upper Michigan Peninsula,MAIN,,Transmission  Equipment,310,4
-9/18/2003,8:20 a.m.,9/29/2003, 10:42 p.m.,"North Eastern North Carolina, Eastern Central , and Northern Virginia",SERC,,Hurricane Isabel,6512,1800000
-9/18/2003,11:45 a.m.,9/18/2003, 12:00 a.m.,Eastern North Carolina,SERC,,Hurricane Isabel,1655,320000
-9/18/2003,12:00 noon,9/26/2003, 10:50 p.m.,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Hartford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)",MAAC,,Hurricane Isabel,2000,650000
-9/18/2003,2:00 p.m.,9/24/2003, 12:00 a.m.,"Maryland, West Virginia, Virginia and Pennsylvania",MAAC,,Hurricane Isabel,3085,237366
-9/18/2003,3:32 p.m.,9/19/2003, 5:00 p.m.,Triangle and Tridad (Greensboro – High Point)  Areas North Carolina - Northern Region,SERC,,Hurricane Isabel,700,50000
-9/18/2003,4:20 p.m.,9/28/2003, 6:00 p.m.,"District of Columbia, Montgomery and Prince George's Counties, Maryland",MAAC,,Hurricane Isabel,0,530000
-9/18/2003,9:00 p.m.,9/21/2003, 5:00 p.m.,"All PPL including: Williamsport, Harrisburg, Lancaster, Scranton and Allentown areas",MAAC,,Hurricane Isabel,1300,425000
-10/26/2003,1:44 a.m.,11/18/2003, 10:54 a.m. ,"San Diego County, California",WECC ,,Wild Fire,0,108000
-11/5/2003,3:16 p.m.,11/5/2003, 3:54 p.m.,Maryland/Virginia border,MAAC,,Tornado,350,1
-11/12/2003,5:00 p.m.,11/16/2003, 6:00 p.m.,Lower Michigan Peninsula,ECAR,,Wind Storm,90,245000
-11/12/2003,5:00 p.m.,11/12/2003, 7:00 p.m.,Northern Illinois,MAIN,,High Winds,370,51000
-11/12/2003,6:00 p.m.,11/16/2003, 5:00 p.m.,Southeastern Michigan,ECAR,,Storm with High Winds,75,160000
-11/13/2003,6:00 a.m.,11/16/2003, 4:00 p.m.,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Harford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)",MAAC,,High Winds,375,110000
-11/13/2003,7:30 a.m.,11/14/2003, 6:30 a.m.,New York,NPCC,,Storm with High Winds,180,50280
-11/13/2003,11:00 a.m.,11/14/2003, 7:30 a.m.,"Washington, D.C., Montgomery County, Prince Georges County, Md",MAAC,,Major Wind Storm,400,104195
-11/13/2003,1:40 p.m.,11/13/2003, 3:51 p.m.,"Northern Virginia, Richmond area, Eastern Virginia",SERC,,Wind Storm,300,67000
-12/1/2003,6:16 p.m.,12/1/2003, 8:11 p.m.,Cape Cod and part of SE Massachusetts,NPCC,,Wild Fire – Transmission Equipment,630,300000
-12/4/2003,7:00 a.m.,12/8/2003, 7:00 a.m.,Eastern portions of King County and Pierce County,WECC,,High Winds,175,200000
-12/4/2003,10:34 p.m.,12/7/2003, 8:30 a.m.,Northeast Wisconsin and Central/Western Upper Peninsula of Michigan,MAIN,,Fault on 138 KV line,650,6
-12/4/2003,10:15 p.m.,12/8/2003, 8:30 a.m.,Upper Peninsula of Michigan and Northeastern Wisconsin,MAIN,,Fault on 138 KV line,500,36000
-12/5/2003,4:49 a.m.,12/5/2003, 6:25 a.m.,State of Florida - Dade County,FRCC,,Transmission Equipment,27,16500
-12/5/2003,7:00 a.m.,12/5/2003, 8:00 p.m.,Northeast Wisconsin and Central/Western Upper Peninsula of Michigan,MAIN,,Transmission Equipment,14,2
-12/20/2003,3:51 p.m.,12/21/2003, 11:45 p.m.,"San Francisco, California",WECC,,Cable Failure,150,120000
-12/22/2003,11:15 a.m.,12/22/2003, 11:16 a.m.,Central California Coast,WECC,,Earthquake,220,109750
-12/28/2003,9:00 p.m.,1/1/2004, 11:30 a.m.,Northern California,WECC,,Winter Storm,160,241000
+1/25/2003,2:00 PM,1/26/2003, 2:00 AM,"Cincinnati, Ohio",ECAR,,Cyber Threat From Internet ,0,0
+2/27/2003,11:32 AM,3/1/2003, 8:00 AM,"Piedmont, North Carolina",SERC,,Winter Ice Storm,1000,340000
+4/3/2003,7:00 PM,4/6/2003, 5:00 PM ,Lower Michigan Peninsula ,ECAR,,Ice Storm,300,425000
+4/4/2003,3:11 AM,4/5/2003, 2:00 PM ,"New York, Upstate New York",NPCC,,Severe Storm ,250,160000
+4/15/2003,11:00 AM,4/15/2003, 2:06 PM ,"Cities of Bryan, College Station and surrounding areas",ERCOT,,Relaying Malfunction,212,68530
+4/28/2003,3:41 PM,4/29/2003, 12:00 PM ,"County of Waukesha,  Wisconsin, Town of Lisbon, Wisconsin",MAIN,,Vandalism,0,0
+5/2/2003,5:00 PM,5/4/2003, 12:00 PM ,"Piedmont, North and South Carolina",SERC,,Severe Thunderstorms,1500,139000
+5/2/2003,8:00 PM,5/3/2003, 8:00 AM,"Central Georgia, Alabama",SERC,,Severe Thunderstorms,130,115739
+5/15/2003,2:52 AM,5/15/2003, 3:29 AM,North Texas,ERCOT,,Interruption of Firm Power,476,192000
+5/15/2003,2:00 PM,6/16/2003, 2:00 PM,Upper Michigan Peninsula,MAIN,,Flood,240,2
+6/15/2003,3:12 PM,6/16/2003, 5:00 PM,Idaho,WECC,,Public Appeal ,0,0
+6/30/2003,1:00 PM,6/30/2003, 12:00 AM ,Coastal areas of Southwest Louisiana entire New Orleans metropolitan area,SPP,,Tropical Storm Bill,0,179299
+7/1/2003,3:15 PM,7/1/2003, 3:50 PM  ,"Phoenix, Arizona",WECC,,Breaker Failure,1000,47000
+7/2/2003,1:54 PM,7/2/2003, 3:59 PM ,Northern California,WECC,,Unit Tripped,200,1
+7/4/2003,6:00 AM,7/4/2003, 10:00 AM ,Southeast Wisconsin,MAIN,,Severe Thunderstorms,150,52000
+7/4/2003,9:00 AM,7/6/2003, 4:00 PM ,Lower Michigan Peninsula,ECAR,,Severe Thunderstorms,90,131000
+7/4/2003,11:41 PM,7/6/2003, 9:00 PM,"Southwest Ohio, portions of Indiana",ECAR,,Severe Storms,200,55142
+7/5/2003,3:00 AM,7/5/2003, 7:00 AM ,Northern Illinois,MAIN,,Severe Storms,80,130000
+7/7/2003,9:00 AM,7/7/2003, 3:00 PM ,Northern Illinois,MAIN,,Severe Thunderstorms,0,72000
+7/8/2003,4:00 AM,7/11/2003, 4:00 PM,Ohio,ECAR,,Severe Thunderstorms,11000,134500
+7/9/2003,5:14 PM,7/9/2003, 7:09 PM ,Northern Central and Eastern Virginia,SERC,,Severe Thunderstorms,120,80000
+7/15/2003,8:24 AM,7/21/2003, 10:30 AM,Texas,ERCOT,,Hurricane Claudette,300,108000
+7/21/2003,5:15 PM,7/24/2003, 5:33 AM,Pennsylvania,MAAC,,Severe Storms,1000,185000
+7/28/2003,6:55 PM,7/28/2003, 8:35 PM,Arizona,WECC,,Breaker Closed,440,90000
+8/14/2003,3:00 PM,8/16/2003, 5:00 PM,Geographic areas for MISO Reliability Coordination footprint:  Michigan and Ohio,ECAR,,Unknown *,18500,0
+8/14/2003,4:09 PM,8/16/2003, 7:00 AM,Southeastern Michigan including all of Detroit,ECAR,,Unknown *,11000,2100000
+8/14/2003,4:09 PM,8/16/2003, 1:03 PM,"Southern Lower  Michigan and small areas near Flint, Alma, Saginaw, and Lansing Michigan",ECAR,,Unknown *,1007,101000
+8/14/2003,4:10 PM,8/16/2003, 8:27 PM,"Northeast, Ohio",ECAR,,Unknown *,7000,1203000
+8/14/2003,4:10 PM,8/16/2003, 3:45 AM,Southwestern Connecticut and a small portion of Western Massachusetts and Vermont,NPCC,,Unknown *,2500,0
+8/14/2003,4:10 PM,8/18/2003, 12:03 AM,New York State,NPCC,,Unknown *,22934,0
+8/14/2003,4:10 PM,8/14/2003, 11:48 PM,"New York- Buffalo to Albany; Ontario, Canada to Pennsylvania",NPCC,,Unknown *,0,840137
+8/14/2003,4:10 PM,8/14/2003, 6:00 AM,"Northern New Jersey Erie, Pennsylvania  area",MAAC,,Unknown *,4500,0
+8/14/2003,4:11 PM,8/15/2003, 9:03 PM,Entire Con Edison System (five boroughs of NYC and Westchester County),NPCC,,Unknown *,11202,3125350
+8/26/2003,4:00 PM,8/29/2003, 12:00 PM,"Maryland: Anne Arundel County, Baltimore County, Calvert County, Carroll County, Howard County, Montgomery County,  Prince George's and Baltimore City.",MAAC,,Severe Thunderstorms,625,133000
+8/26/2003,4:22 PM,8/31/2003, 6:00 PM,"Washington, D.C.,  Montgomery County,  Prince Georges County, Maryland",MAAC,,Severe Thunderstorms,1500,153000
+9/7/2003,5:19 AM,9/7/2003, 6:00 PM,Upper Michigan Peninsula,MAIN,,Transmission  Equipment,310,4
+9/18/2003,8:20 AM,9/29/2003, 10:42 PM,"North Eastern North Carolina, Eastern Central , and Northern Virginia",SERC,,Hurricane Isabel,6512,1800000
+9/18/2003,11:45 AM,9/18/2003, 12:00 AM,Eastern North Carolina,SERC,,Hurricane Isabel,1655,320000
+9/18/2003,12:00 PM,9/26/2003, 10:50 PM,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Hartford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)",MAAC,,Hurricane Isabel,2000,650000
+9/18/2003,2:00 PM,9/24/2003, 12:00 AM,"Maryland, West Virginia, Virginia and Pennsylvania",MAAC,,Hurricane Isabel,3085,237366
+9/18/2003,3:32 PM,9/19/2003, 5:00 PM,Triangle and Tridad (Greensboro – High Point)  Areas North Carolina - Northern Region,SERC,,Hurricane Isabel,700,50000
+9/18/2003,4:20 PM,9/28/2003, 6:00 PM,"District of Columbia, Montgomery and Prince George's Counties, Maryland",MAAC,,Hurricane Isabel,0,530000
+9/18/2003,9:00 PM,9/21/2003, 5:00 PM,"All PPL including: Williamsport, Harrisburg, Lancaster, Scranton and Allentown areas",MAAC,,Hurricane Isabel,1300,425000
+10/26/2003,1:44 AM,11/18/2003, 10:54 AM ,"San Diego County, California",WECC ,,Wild Fire,0,108000
+11/5/2003,3:16 PM,11/5/2003, 3:54 PM,Maryland/Virginia border,MAAC,,Tornado,350,1
+11/12/2003,5:00 PM,11/16/2003, 6:00 PM,Lower Michigan Peninsula,ECAR,,Wind Storm,90,245000
+11/12/2003,5:00 PM,11/12/2003, 7:00 PM,Northern Illinois,MAIN,,High Winds,370,51000
+11/12/2003,6:00 PM,11/16/2003, 5:00 PM,Southeastern Michigan,ECAR,,Storm with High Winds,75,160000
+11/13/2003,6:00 AM,11/16/2003, 4:00 PM,"Central Maryland (Baltimore City, Baltimore County, Anne Arundel County, Harford County, Montgomery County, Calvert County, Prince George's County, Carroll County and Howard County)",MAAC,,High Winds,375,110000
+11/13/2003,7:30 AM,11/14/2003, 6:30 AM,New York,NPCC,,Storm with High Winds,180,50280
+11/13/2003,11:00 AM,11/14/2003, 7:30 AM,"Washington, D.C., Montgomery County, Prince Georges County, Md",MAAC,,Major Wind Storm,400,104195
+11/13/2003,1:40 PM,11/13/2003, 3:51 PM,"Northern Virginia, Richmond area, Eastern Virginia",SERC,,Wind Storm,300,67000
+12/1/2003,6:16 PM,12/1/2003, 8:11 PM,Cape Cod and part of SE Massachusetts,NPCC,,Wild Fire – Transmission Equipment,630,300000
+12/4/2003,7:00 AM,12/8/2003, 7:00 AM,Eastern portions of King County and Pierce County,WECC,,High Winds,175,200000
+12/4/2003,10:34 PM,12/7/2003, 8:30 AM,Northeast Wisconsin and Central/Western Upper Peninsula of Michigan,MAIN,,Fault on 138 KV line,650,6
+12/4/2003,10:15 PM,12/8/2003, 8:30 AM,Upper Peninsula of Michigan and Northeastern Wisconsin,MAIN,,Fault on 138 KV line,500,36000
+12/5/2003,4:49 AM,12/5/2003, 6:25 AM,State of Florida - Dade County,FRCC,,Transmission Equipment,27,16500
+12/5/2003,7:00 AM,12/5/2003, 8:00 PM,Northeast Wisconsin and Central/Western Upper Peninsula of Michigan,MAIN,,Transmission Equipment,14,2
+12/20/2003,3:51 PM,12/21/2003, 11:45 PM,"San Francisco, California",WECC,,Cable Failure,150,120000
+12/22/2003,11:15 AM,12/22/2003, 11:16 AM,Central California Coast,WECC,,Earthquake,220,109750
+12/28/2003,9:00 PM,1/1/2004, 11:30 AM,Northern California,WECC,,Winter Storm,160,241000

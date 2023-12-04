@@ -1,24 +1,24 @@
 ﻿Date Event Began,Time Event Began,Date of Restoration,Time of Restoration,Area Affected,NERC Region,Alert Criteria,Event Type ,Demand Loss (MW),Number of Customers Affected
-1/30/2002,6:00 AM,2/7/2002,12:00:00 PM,Oklahoma,SPP,,Ice Storm,500,1881134
-1/29/2002,9:00 p.m.,#VALUE!,#VALUE!,Metropolitan Kansas City Area,SPP,,Ice Storm,600,270000
-1/30/2002,4:00 PM,2/10/2002,9:00:00 PM,Missouri,SPP,,Ice Storm,210,95000
-2/27/2002,10:48 AM,2/27/2002,11:35:00 AM,California,WSCC,,Interruption of Firm Load,300,255000
-3/9/2002,12:00 AM,3/11/2002,12:00:00 PM,Lower Peninsula of Michigan,ECAR,,Severe Weather,190,190000
-4/8/2002,3:00 PM,4/9/2002,12:00:00 AM,Arizona,WSCC,,Vandalism/Insulators,0,0
-7/9/2002,12:27 PM,7/9/2002,7:54:00 PM,California,WSCC,,Interruption of Firm Power,240,1
-7/19/2002,11:51 AM,7/19/2002,4:30:00 PM,California,WSCC,,Interruption of Firm Power (Unit Tripped),240,1
-7/20/2002,12:40 PM,7/20/2002,8:12:00 PM,New York,NPCC,,Fire,278,63500
-8/2/2002,12:43 PM,8/2/2002,6:36:00 PM,Illinois,MAIN,,Interruption of Firm Power,232,53565
-8/9/2002,8:23 AM,8/9/2002,12:13:00 PM,Florida,SERC,,Interruption of Firm Power,51,25000
-8/25/2002,3:41 AM,8/25/2002,9:17:00 AM,California,WSCC,,Interruption of Firm Power,120,1
-8/28/2002,2:09 PM,8/28/2002,3:38:00 PM,Florida,SERC,,Severe Weather,67.6,25000
-10/3/2002,3:33 AM,10/12/2002,12:00:00 AM,Coastal Areas of Southern Louisiana,SPP,,Hurricane Lily,0,242910
-11/6/2002,10:00 PM,11/10/2002,12:00:00 PM,Northern and Central California,WSCC,,Winter Storm,270,939000
+1/30/2002,6:00 AM,2/7/2002,12:00 PM,Oklahoma,SPP,,Ice Storm,500,1881134
+1/29/2002,9:00 PM,#VALUE!,#VALUE!,Metropolitan Kansas City Area,SPP,,Ice Storm,600,270000
+1/30/2002,4:00 PM,2/10/2002,9:00 PM,Missouri,SPP,,Ice Storm,210,95000
+2/27/2002,10:48 AM,2/27/2002,11:35 AM,California,WSCC,,Interruption of Firm Load,300,255000
+3/9/2002,12:00 AM,3/11/2002,12:00 PM,Lower Peninsula of Michigan,ECAR,,Severe Weather,190,190000
+4/8/2002,3:00 PM,4/9/2002,12:00 AM,Arizona,WSCC,,Vandalism/Insulators,0,0
+7/9/2002,12:27 PM,7/9/2002,7:54 PM,California,WSCC,,Interruption of Firm Power,240,1
+7/19/2002,11:51 AM,7/19/2002,4:30 PM,California,WSCC,,Interruption of Firm Power (Unit Tripped),240,1
+7/20/2002,12:40 PM,7/20/2002,8:12 PM,New York,NPCC,,Fire,278,63500
+8/2/2002,12:43 PM,8/2/2002,6:36 PM,Illinois,MAIN,,Interruption of Firm Power,232,53565
+8/9/2002,8:23 AM,8/9/2002,12:13 PM,Florida,SERC,,Interruption of Firm Power,51,25000
+8/25/2002,3:41 AM,8/25/2002,9:17 AM,California,WSCC,,Interruption of Firm Power,120,1
+8/28/2002,2:09 PM,8/28/2002,3:38 PM,Florida,SERC,,Severe Weather,67.6,25000
+10/3/2002,3:33 AM,10/12/2002,12:00 AM,Coastal Areas of Southern Louisiana,SPP,,Hurricane Lily,0,242910
+11/6/2002,10:00 PM,11/10/2002,12:00 PM,Northern and Central California,WSCC,,Winter Storm,270,939000
 11/17/2002,3:48 PM,#VALUE!,#VALUE!,"Northport, NY ",NPPC,,Cable Tripped,0,0
-11/17/2002,6:00 AM,11/21/2002,8:00:00 AM,Northwest and North Central Connecticut,NPCC,,Ice Storm,0,224912
-12/3/2002,6:30 PM,12/9/2002,10:30:00 PM,Arkansas,SPP,,Ice Storm,0,43000
-12/11/2002,1:09 PM,12/13/2002,10:00:00 PM,Northern Virginia to Fredericksburg Staunton to Harrisonburg,SERC,,Winter Storm,63,130000
-12/14/2002,11:00 AM,12/19/2002,4:00:00 PM,Northern and Central California,WSCC,,Winter Storm,180,1500000
-12/19/2002,6:00 AM,12/21/2002,5:00:00 PM,Northern and Central California,WSCC,,Winter Storm,56,385000
-12/25/2002,5:00 PM,12/26/2002,5:00:00 AM,Eastern Pennsylvania,MAAC,,Winter Storm,250,106000
-12/25/2002,10:00 AM,12/27/2002,8:30:00 AM,"Reading, York, Hanover, Hamburg Pennsylvania",MAAC,,Winter Storm,0,95630
+11/17/2002,6:00 AM,11/21/2002,8:00 AM,Northwest and North Central Connecticut,NPCC,,Ice Storm,0,224912
+12/3/2002,6:30 PM,12/9/2002,10:30 PM,Arkansas,SPP,,Ice Storm,0,43000
+12/11/2002,1:09 PM,12/13/2002,10:00 PM,Northern Virginia to Fredericksburg Staunton to Harrisonburg,SERC,,Winter Storm,63,130000
+12/14/2002,11:00 AM,12/19/2002,4:00 PM,Northern and Central California,WSCC,,Winter Storm,180,1500000
+12/19/2002,6:00 AM,12/21/2002,5:00 PM,Northern and Central California,WSCC,,Winter Storm,56,385000
+12/25/2002,5:00 PM,12/26/2002,5:00 AM,Eastern Pennsylvania,MAAC,,Winter Storm,250,106000
+12/25/2002,10:00 AM,12/27/2002,8:30 AM,"Reading, York, Hanover, Hamburg Pennsylvania",MAAC,,Winter Storm,0,95630
