@@ -1,0 +1,98 @@
+﻿Date Event Began,Time Event Began,Date of Restoration,Time of Restoration,Area Affected,NERC Region,Event Type,Demand Loss (MW),Number of Customers Affected
+1/5/2009,5:00 a.m.,1/6/2009,6:00 p.m.,North and Central Texas,TRE,Severe Storm,N/A,"157,019"
+1/7/2009,5:00 p.m.,1/7/2009,8:05 p.m.,Piedmont of North and South Carolina,SERC,High Winds,300,"70,000"
+1/8/2009,11:46 p.m.,1/9/2009,11:25 a.m.,Florida Keys,FRCC,Transmission Equipment Failure,55,"31,000"
+1/17/2009,8:00 a.m.,1/25/2009,8:00 a.m.,"PJM, Indiana",RFC,Fuel Supply Deficiency,N/A,N/A
+1/22/2009,4:00 p.m.,1/22/2009,5:05 p.m.,"Crawfordsville, Indiana",RFC,Shed Load,50,"9,700"
+1/27/2009,5:00 a.m.,1/29/2009,4:30 p.m.,State of Kentucky,RFC,Ice Storm,N/A,"383,000"
+1/27/2009,5:03 a.m.,1/31/2009,5:15 p.m.,Central and Eastern Kentrucky,SERC,Ice Storm,600,"190,000"
+1/27/2009,7:10 a.m.,2/4/2009,7:30 p.m.,Western Kentucky and Southern Indiana,SERC,Ice Storm,350,3
+1/27/2009,11:00 a.m.,1/30/2009,6:00 p.m.,South Central and Southeast Missouri,SERC,Winter Storm,200,"62,500"
+1/27/2009,1:46 p.m.,2/3/2009,5:00 p.m.,Northern Arkansas,SERC,Ice Storm,N/A,"111,818"
+1/27/2009,3:43 p.m.,1/29/2009,9:00 a.m.,CSWS-AEP West,RFC,Ice/Snow Storm,N/A,"59,402"
+1/27/2009,9:00 p.m.,1/29/2009,6:00 a.m.,Northern Arkansas,SERC,Ice Storm,600,"215,700"
+1/27/2009,9:45 p.m.,1/27/2009,10:17 p.m.,TVA Service Territory,SERC,Ice Storm,850,1
+1/28/2009,12:10 a.m.,1/30/2009,9:20 p.m.,East Central Missouri,RFC,Winter Storm,300,1
+1/28/2009,3:00 a.m.,2/13/2009,8:03 a.m.,"Illinois, Indiana, Ohio and Kentucky",RFC,Winter Storm,N/A,"230,300"
+1/28/2009,4:00 a.m.,2/7/2009,5:00 p.m.,"City of Henderson, Kentucky and Portions of Henderson County, Kentucky",RFC,Ice Storm,21,"3,500"
+1/28/2009,6:00 a.m.,2/5/2009,6:00 p.m.,"Indiana, Evansville, Metro Area",RFC,Ice Storm,506,"75,000"
+1/28/2009,7:50 a.m.,2/13/2009,8:03 a.m.,Southern Indiana,RFC,Ice/Snow Storm,N/A,"53,700"
+1/28/2009,9:00 a.m.,2/5/2009,8:00 a.m.,Northeast Tennessee and Southwest Kentucky,SERC,Ice Storm,N/A,"109,527"
+1/28/2009,10:00 a.m.,1/30/2009,9:20 p.m.,Northern Kentucky and Southwest Ohio,RFC,Ice/Snow Storm,N/A,"53,600"
+2/11/2009,2:30 a.m.,2/11/2009,12:00 p.m.,"Houston, Texas",TRE,High Winds,350,"64,801"
+2/11/2009,6:00 p.m.,2/13/2009,5:00 p.m.,"Kentucky, West Virginia and Ohio",RFC,Severe Thunderstorms,N/A,"279,813"
+2/11/2009,6:18 p.m.,2/16/2009,8:10 p.m.,"Maryland, Virginia, West Virginia and Pennsylvania",RFC,Severe Thunderstorms,N/A,"374,644"
+2/11/2009,7:00 p.m.,2/12/2009,11:00 a.m.,State of Kentucky,RFC,Severe Thunderstorms,N/A,"78,000"
+2/11/2009,9:00 p.m.,2/12/2009,12:00 p.m.,Northern Kentucky and Southwest Ohio,RFC,Severe Thunderstorms,350,"63,000"
+2/12/2009,2:30 a.m.,2/12/2009,6:00 a.m.,Central and Eastern Ohio,RFC,High Winds,168,"184,000"
+2/12/2009,8:00 a.m.,2/15/2009,10:00 p.m.,Western and North Eastern Pennsylvania,RFC,High Winds,130,"132,000"
+2/13/2009,2:30 a.m.,2/15/2009,3:00 a.m.,Central and Eastern Ohio,RFC,High Winds,168,"184,000"
+2/23/2009,2:38 a.m.,2/24/2009,1:46 p.m.,Southern Central and Western Maine,NPCC,Ice/Snow Storm,N/A,"131,000"
+3/1/2009,12:15 a.m.,3/1/2009,3:00 a.m.,"City of El Paso, Texas, County of El Paso",WECC,Transmission Equipment Failure,250,"132,000"
+3/1/2009,4:00 p.m.,3/1/2009,11:25 p.m.,Southern Balancing Area,SERC,Severe Weather,75,"60,000"
+3/1/2009,8:54 p.m.,3/3/2009,4:06 p.m.,Duke Energy Carolinas Balance Authority,SERC,Ice/Snow Storm,"1,000","180,000"
+3/1/2009,10:00 p.m.,3/3/2009,6:00 p.m.,Central Virginia - Spotsylvania County,SERC,Winter Storm,210,"217,000"
+3/3/2009,6:48 a.m.,4/26/2009,6:05 a.m.,Southwest Michigan,RFC,Transformer Faulted/Unit Tripped,378,N/A
+3/3/2009,10:00 p.m.,3/4/2009,8:17 p.m.,"Roanoke, Virginia",REC,Made Public Appeals,350,0
+3/8/2009,10:16 p.m.,3/8/2009,11:45 p.m.,"San Francisco Bay Area, California",WECC,Unit Shut Down,150,-
+4/6/2009,1:00 a.m.,4/8/2009,12:00 p.m.,"Michigan, Lower Peninsula",RFC,Winter Storm,75,"70,793"
+4/10/2009,10:00 p.m.,4/11/2009,2:30 a.m.,Alabama and Georgia,SERC,Severe Thunderstorms,162,"56,679"
+4/23/2009,12:00 a.m.,,Ongoing,Restricted Hydro Electric Capability,WECC,Fuel Supply Deficiency,-,-
+4/23/2009,4:25 p.m.,4/24/2009,12:29 a.m.,"Skagit County, Washington",WECC,Transmission Tripped,244,"93,300"
+4/23/2009,5:54 p.m.,4/23/2009,7:58 p.m.,"Communities of Elsinore, Hemet, Moreno Valley, Perris, San Jacinto and Temecula in the southeastern area of Riverside County in California",WECC,Substation Load Interruption,512,"280,000"
+4/24/2009,11:09 a.m.,4/24/2009,11:21 a.m.,"Ruston, Louisiana",SERC,Complete Electric System Failure,32,"11,000"
+4/25/2009,2:30 p.m.,4/29/2009,1:00 a.m.,Western Region of Service Territory,RFC,High Winds/Rain,N/A,"125,000"
+4/27/2009,3:30 p.m.,4/28/2009,11:30 a.m.,Greater Houston/Galveston Area,TRE,High Winds,176,"158,000"
+5/8/2009,7:30 a.m.,5/8/2009,9:00 a.m.,SW Missouri,SERC,Severe Thunderstorm,266,"83,000"
+5/8/2009,1:30 p.m.,5/14/2009,11:20 p.m.,Southern Illinois,SERC,Severe Thunderstorm,300,"68,800"
+5/29/2009,9:05 a.m.,5/29/2009,7:57 p.m.,"Henderson County, Kentucky",SERC,Transmission Equipment Failure,342,1
+6/5/2009,1:38 p.m.,6/5/2009,8:18 p.m.,East of Fresno California,WECC,Electrical System Separation,1,70
+6/9/2009,5:25 p.m.,6/11/2009,5:00 a.m.,Central Maryland,RFC,Severe Thunderstorms,60,"85,091"
+6/10/2009,6:00 p.m.,6/14/2009,10:00 a.m.,North and Central Texas,TRE,Severe Storms,N/A,"800,000"
+6/12/2009,4:37 p.m.,6/12/2009,6:53 p.m.,"Chattanooga, Tennessee",SERC,Severe Storm,860,"136,000"
+6/12/2009,5:45 p.m.,6/15/2009,11:59 p.m.,"Arkansas, North Mississippi",SERC,Severe Thunderstorms,N/A,"81,645"
+6/12/2009,10:00 p.m.,6/13/2009,6:00 p.m.,Georgia,SERC,Severe Thunderstorm,290,"102,000"
+6/16/2009,11:00 p.m.,6/17/2009,2:00 a.m.,A.D. Edmonston Pumping Plant,WECC,Fuel Supply Deficiency,300,0
+6/19/2009,12:01 a.m.,6/21/2009,11:00 p.m.,Michigan Lower Peninsula,RFC,Severe Storm,75,"99,000"
+6/19/2009,1:00 p.m.,6/19/2009,11:59 p.m.,The Entire ComEd Service Territory,SERC,Severe Storm,N/A,"245,000"
+6/24/2009,1:30 p.m.,6/24/2009,10:00 p.m.,Southwest Louisiana,SERC,Made Public Appeals,N/A,N/A
+6/25/2009,3:16 p.m.,6/25/2009,7:00 p.m.,ERCOT Region,TRE,Made Public Appeals,N/A,N/A
+6/25/2009,3:30 p.m.,6/28/2009,8:00 p.m.,Western Region of Service Territory,RFC,High Winds/Rain,N/A,"118,000"
+6/26/2009,1:00 a.m.,6/27/2009,9:00 a.m.,"Southwest Ohio, Northern Kentudky, Central and Southern Indiana",RFC,Severe Thunderstorms,327,"85,000"
+6/26/2009,5:00 p.m.,6/29/2009,9:00 a.m.,Central Connecticut,NPCC,Severe Thunderstorms,N/A,"50,752"
+7/2/2009,10:44 p.m.,7/3/2009,1:25 a.m.,Northern Maine,NPCC,Electrical System Separation,0,0
+7/7/2009,3:30 p.m.,7/7/2009,7:00 p.m.,"San Antonio, Texas",TRE,Made Public Appeals,N/A,N/A
+7/8/2009,1:30 p.m.,7/8/2009,7:00 p.m.,ERCOT Region,TRE,Made Public Appeals,N/A,N/A
+7/14/2009,1:00 p.m.,7/14/2009,6:00 p.m.,AEP SWEPCO/Louisiana Area,SPP,Made Public Appeals,N/A,N/A
+7/15/2009,1:00 p.m.,7/15/2009,6:00 p.m.,AEP SWEPCO/Louisiana Area,SPP,Made Public Appeals,N/A,N/A
+7/16/2009,1:00 p.m.,7/16/2009,6:00 p.m.,AEP SWEPCO/Louisiana Area,SPP,Made Public Appeals,N/A,N/A
+7/18/2009,7:00 p.m.,7/19/2009,9:00 p.m.,Houston/Galveston Area,TRE,Thunderstorms,51,"73,000"
+7/20/2009,9:50 p.m.,7/22/2009,7:00 p.m.,"Metro Denver (Jefferson, Adams, and Arapahoe Counties)",WECC,Severe Thunderstorm,150,"86,058"
+7/21/2009,5:34 a.m.,7/21/2009,8:43 a.m.,"San Francisco Bay Area, California",WECC,Unit Tripped,136,1
+7/27/2009,5:05 a.m.,7/27/2009,5:47 a.m.,"Chattanooga, Tennessee",SERC,Failure of Computer Hardware Used for Monitoring,N/A,N/A
+7/28/2009,8:18 p.m.,7/28/2009,8:33 p.m.,Salt Lake City Utah and Northern Utah,WECC,Loss of Part of Substation,316,N/A
+8/2/2009,2:17 a.m.,8/3/2009,1:09 p.m.,"Chester, Montgomery, Delaware, Philadelphia and Bucks Counties, Pennsyvania",RFC,Highwinds,N/A,"70,264"
+8/4/2009,1:45 p.m.,8/8/2009,9:00 p.m.,"Northern Kentucky, Southwest Ohio and Central and South Indiana",RFC,Thunderstorms,50,"63,700"
+8/5/2009,3:00 p.m.,8/5/2009,7:00 p.m.,ERCOT Region,TRE,Made Public Appeals,N/A,N/A
+8/7/2009,11:00 p.m.,8/11/2009,10:00 p.m.,Western Region of Service Territory,RFC,High Winds and Rain,N/A,"137,000"
+8/9/2009,7:31 p.m.,8/10/2009,9:59 a.m.,"Michigan, Lower Peninsula",RFC,Severe Thunderstorms,N/A,"58,156"
+8/12/2009,6:25 p.m.,8/12/2009,10:00 a.m.,South Houston Service Area,TRE,Thunderstorms,491,"73,000"
+8/21/2009,7:00 p.m.,8/22/2009,8:00 a.m.,Houston Metropolitan Service Area,TRE,Thunderstorms,544,"80,000"
+8/29/2009,11:00 a.m.,8/29/2009,2:01 p.m.,Western South Dakota,MRO,Electrical System Separation,373,18
+8/29/2009,10:54 p.m.,8/29/2009,11:53 p.m.,Western South Dakota,RFC,Electrical System Separation,84,0
+8/31/2009,10:31 a.m.,8/31/2009,12:00 a.m.,"City of Los Angeles, California",WECC,Made Public Appeals,N/A,N/A
+10/7/2009,5:45 a.m.,10/9/2009,11:00 p.m.,Southeast Michigan,RFC,Severe Storms,N/A,"75,000"
+10/9/2009,6:30 p.m.,10/9/2009,7:10 p.m.,"Central Valley, CA (Bakersfield, CA)",WECC,Transmission System Interruption,180,N/A
+10/9/2009,10:45 p.m.,10/11/2009,4:00 p.m.,Arkansas and North Louisiana,SERC,Winter Storm,N/A,"56,000"
+10/13/2009,12:48 p.m.,10/13/2009,2:34 p.m.,Southeastern Wyoming,WECC,Ice,101,"35,500"
+10/13/2009,3:45 p.m.,10/13/2009,5:50 p.m.,Sacramento County,WECC,High Winds,90,"94,000"
+10/13/2009,4:00 p.m.,10/13/2009,10:30 p.m.,Northern California,WECC,High Winds and Rain,350,"859,554"
+11/12/2009,6:45 p.m.,11/14/2009,4:25 a.m.,"Southeastern Virginia, Northeastern North Carolina",SERC,Tropical Storm Ida,400,"335,000"
+11/18/2009,6:15 a.m.,11/18/2009,10:00 a.m.,"Central Valley, CA",WECC,Switching Failure,630,N/A
+12/7/2009,10:00 p.m.,12/8/2009,4:00 a.m.,California,WECC,Forced Outage Equipment Failure,400,N/A
+12/8/2009,1:00 a.m.,12/10/2009,11:00 a.m.,Arizona,WECC,Severe Weather,N/A,"140,000"
+12/8/2009,6:34 a.m.,12/8/2009,12:00 p.m.,California,WECC,Load Shed/Made Public Appeals,N/A,N/A
+12/9/2009,1:37 p.m.,12/10/2009,6:30 a.m.,Ohio,RFC,Severe Weather,N/A,"48,102"
+12/10/2009,5:45 p.m.,12/12/2009,8:00 a.m.,Michigan,RFC,Severe Weather,N/A,"65,562"
+12/18/2009,8:00 p.m.,12/25/2009,9:30 p.m.,"West Virginia, Kentucky, Ohio",RFC,Severe Weather,N/A,"403,913"
+12/18/2009,10:55 p.m.,12/19/2009,11:15 p.m.,Western North Carolina,SERC,Severe Weather,N/A,"47,000"
