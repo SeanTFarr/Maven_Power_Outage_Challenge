@@ -40,7 +40,7 @@
 2/25/2011,10:30 AM,2/25/2011,10:45 AM,"Salt Lake City, Utah",WECC,,Vandalism,0,0
 3/1/2011,8:00 AM,3/5/2011,9:30 AM,Western New York,NPCC,,Fuel Supply Deficiency (Coal),675,0
 3/6/2011,2:54 AM,3/8/2011,8:00 AM,"Salt Lake City Region, Utah",WECC,,Vandalism,0,0
-3/8/2011,8:00 AM,3/18/2001,9:00 AM,Western New York,NPCC,,Fuel Supply Deficiency (Coal),676,0
+3/8/2011,8:00 AM,3/18/2011,9:00 AM,Western New York,NPCC,,Fuel Supply Deficiency (Coal),676,0
 3/10/2011,12:03 PM,3/11/2011,6:00 AM,Texas,TRE,,Suspected Physical Attack,0,0
 3/11/2011,7:02 AM,3/11/2011,9:15 AM,"Humboldt and Eureka, California",WECC,,Generation Inadequacy/Load Shed,15,6800
 3/13/2011,2:20 PM,3/14/2011,3:46 PM,Oregon,WECC,,Severe Weather,0,9000
@@ -218,7 +218,7 @@
 8/25/2011,12:01 AM,8/25/2011,12:01 AM,Maine,NPCC,,Suspected Physical Attack,0,0
 8/25/2011,12:30 AM,8/28/2011,8:00 PM,"Cleveland area, Ohio",RFC,,Severe Weather,0,107833
 8/26/2011,12:30 AM,8/28/2011,12:30 AM,Pennsylvania,RFC,,Severe Weather,0,200717
-8/27/2011,11:05 PM,8/29/2077,3:30 PM,District of Columbia; Maryland,RFC,,Severe Weather,0,220000
+8/27/2011,11:05 PM,8/29/2011,3:30 PM,District of Columbia; Maryland,RFC,,Severe Weather,0,220000
 8/27/2011,11:00 PM,8/29/2011,8:00 AM,Maryland,RFC,,Severe Weather,0,108000
 8/27/2011,10:00 PM,8/29/2011,4:00 PM,Southern New Jersey,RFC,,Severe Weather,320,140000
 8/27/2011,10:00 PM,8/29/2011,10:00 PM,Pennsylvania,RFC,,Severe Weather,0,264000

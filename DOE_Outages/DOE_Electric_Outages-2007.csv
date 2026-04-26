@@ -1,14 +1,14 @@
 ﻿Date Event Began,Time Event Began,Date of Restoration,Time of Restoration,Area Affected, NERC Region,Alert Criteria,Event Type,Demand Loss (MW),Number of Customers Affected
 1/5/2007,10:44 AM,1/5/2007,11:13 AM,Island of Puerto Rico,PR,,Voltage Reduction,0,0
 1/13/2007,5:00 AM,1/19/2007,12:00 PM,Missouri and Illinois,MRO,,Ice Storm,0,225000
-1/13/2007,7:30 AM,1/1/2007,4:00 PM,Eastern and Lower Michigan,RFC,,Ice Storm,500,129607
+1/13/2007,7:30 AM,1/19/2007,4:00 PM,Eastern and Lower Michigan,RFC,,Ice Storm,500,129607
 1/16/2007,2:00 AM,1/17/2007,12:00 AM,"Snohomish County, Washington",WECC,,Major Windstorm,260,110433
-2/13/2007,2:00 PM,2/116/2007,12:00 AM,Indiana and Southwest Ohio,RFC,,Ice/Wind Storm,250,367500
+2/13/2007,2:00 PM,2/16/2007,12:00 AM,Indiana and Southwest Ohio,RFC,,Ice/Wind Storm,250,367500
 2/13/2007,5:00 PM,2/17/2007,5:30 AM,Central Maryland,RFC,,Winter Storm,400,155183
-2/24/2007,4:00 PM,2/24/2007,12:57 AM,"NE quarter of State of Iowa and Rock Island, Illinois",MRO,,Ice Storm,210,75000
-2/24/2007,6:00 PM,2/224/2007,11:47 PM,Central Iowa and Cedar Rapids areas,MRO,,Ice Storm,400,140000
-2/24/2007,7:23 PM,2/225/2007,12:47 AM,"Cedar Rapids, Iowa",RFC,,Ice Storm,750,215000
-2/28/2007,12:45 AM,2/22/2007,8:45 PM,Northern California,WECC,,Winter Storm,110,671189
+2/24/2007,4:00 PM,3/4/2007,12:57 AM,"NE quarter of State of Iowa and Rock Island, Illinois",MRO,,Ice Storm,210,75000
+2/24/2007,6:00 PM,2/24/2007,11:47 PM,Central Iowa and Cedar Rapids areas,MRO,,Ice Storm,400,140000
+2/24/2007,7:23 PM,2/25/2007,12:47 AM,"Cedar Rapids, Iowa",RFC,,Ice Storm,750,215000
+2/28/2007,12:45 AM,3/2/2007,8:45 PM,Northern California,WECC,,Winter Storm,110,671189
 3/1/2007,9:40 PM,3/2/2007,11:30 PM,"Parts of Alabama, Mississippi, Georgia, Florida",SERC,,Major Storm,95,25445
 3/31/2007,7:30 AM,3/31/2007,7:00 PM,"Houston, Texas",ERCOT,,Severe Thunderstorms,179,67000
 4/5/2007,9:20 PM,4/6/2007,1:10 PM,Southern and Coastal Maine,NPCC,,Heavy Snow Storm,0,117142
@@ -37,21 +37,21 @@
 7/10/2007,11:00 AM,7/12/2007,6:00 AM,Eastern New York,NPCC,,Major Storms,650,300000
 7/16/2007,4:17 PM,7/16/2007,9:00 PM,"St. George, Utah",WECC,,Fire/Load Shedding,306,0
 7/18/2007,6:00 PM,7/19/2007,2:00 AM,Northern Counties of Illinois,RFC,,Severe Weather,300,135000
-7/19/2007,3:00 PM,7/12/2007,11:30 PM,Southwestern Region of Service Territory,RFC,,Major Storm,0,60000
+7/19/2007,3:00 PM,7/22/2007,11:30 PM,Southwestern Region of Service Territory,RFC,,Major Storm,0,60000
 7/19/2007,3:50 PM,7/19/2007,10:15 PM,"North, East and Central Virginia",SERC,,Major Storms,72,107000
 8/8/2007,1:00 PM,8/8/2007,9:00 PM,Portions of North Carolina and South Carolina,SERC,,Made Public Appeal,0,0
 8/8/2007,3:56 PM,8/8/2007,5:59 PM,Mid-Altantic Region of PJM,RFC,,Voltage Reduction/Made Public Appeal,0,0
 8/9/2007,12:45 PM,8/9/2007,9:00 PM,Portions of North Carolina and South Carolina,SERC,,Made Public Appeal,0,0
 8/9/2007,2:53 PM,8/9/2007,4:11 PM,"Highland Area of Pittsburgh, Pennsylvania",RFC,,Severe Thunderstorms,90,55000
 8/10/2007,12:20 PM,8/10/2007,9:00 PM,Portions of North Carolina and South Carolina,SERC,,Made Public Appeal,0,0
-8/13/2007,1:30 AM,8/1/2007,12:00 AM,State of Missouri,SERC,,Severe Thunderstorm,0,63000
+8/13/2007,1:30 AM,8/14/2007,12:00 AM,State of Missouri,SERC,,Severe Thunderstorm,0,63000
 8/14/2007,2:00 PM,8/14/2007,6:00 PM,"CSWS Control Area of Southwest Power Pool Parts of Oklahoma, Texas, Louisiana, Arkansas",SPP,,Declared Energy Emergency Alert2/Heat Wave,20,0
-8/16/2007,9:30 PM,8/1/2007,10:49 PM,Virginia and Eastern North Carolina - Primarily in Central Virginia,SERC,,Severe Weather,200,93300
-8/19/2007,11:34 PM,8/10/2007,1:10 AM,Central and Eastern Virginia,SERC,,Severe Thunderstorms,100,58500
-8/23/2007,4:00 PM,8/2/2007,10:49 PM,Northern Illinois,RFC,,Severe Storms,0,629590
+8/16/2007,9:30 PM,8/17/2007,10:49 PM,Virginia and Eastern North Carolina - Primarily in Central Virginia,SERC,,Severe Weather,200,93300
+8/19/2007,11:34 PM,8/20/2007,1:10 AM,Central and Eastern Virginia,SERC,,Severe Thunderstorms,100,58500
+8/23/2007,4:00 PM,8/28/2007,10:49 PM,Northern Illinois,RFC,,Severe Storms,0,629590
 8/24/2007,6:00 PM,8/28/2007,6:30 AM,Southeastern Michigan,RFC,,Severe Storm,0,75000
 8/29/2007,1:53 PM,8/29/2007,2:57 PM,Modesto California and the Surrounding Areas,WECC,,Shed Load,180,26000
-8/29/2007,4:00 PM,8/20/2007,6:00 PM,CAISO Controlled Grid,WECC,,Made Public Appeal,0,0
+8/29/2007,4:00 PM,8/30/2007,6:00 PM,CAISO Controlled Grid,WECC,,Made Public Appeal,0,0
 8/31/2007,12:45 PM,8/31/2007,8:00 PM,CAISO Controlled Grid,WECC,,Declared Energy Emergency Alert 1/Heat wave,0,0
 9/3/2007,12:30 PM,9/3/2007,5:30 PM,"San Diego County, Southern Orange County, California",WECC,,High Temperatures/Made Public Appeals,0,0
 9/4/2007,8:30 AM,9/4/2007,3:30 PM,"San Diego County, Southern Orange County, California",WECC,,High Temperatures/Made Public Appeals,0,0
